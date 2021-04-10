@@ -87,7 +87,7 @@ const map = {
     console.log(this.cells);
   },
 
-  render(snakePointsArray, foodPoint) {
+  render(snakePointsArray, foodPoint, rockPoint) {
     for (const cell of this.usedCells) {
       cell.className = 'cell';
     }
@@ -105,7 +105,13 @@ const map = {
 
     foodCell.classList.add('food');
     this.usedCells.push(foodCell);
+
+    const rockCell = this.cells[`x${rockPoint.x}_y${rockPoint.y}`];
+
+    rockCell.classList.add('rock');
+    this.usedCells.push(rockCell);
   },
+  
 };
 
 const snake = {
@@ -141,7 +147,17 @@ const snake = {
     const lastBodyIndex = this.body.length - 1;
     const lastBodyPoint = this.body[lastBodyIndex];
     this.body.push(lastBodyPoint);
+    const yourPoint = document.getElementById('gamePoint')
+    yourPoint.innerHTML = lastBodyIndex + 1;
+
   },
+
+  numbersPoint() {
+    const yourPoint = getElementById('gamePoint')
+    yourPoint.innerHTML = this.lastBodyIndex;
+  },
+
+
 
   getNextStepHeadPoint() {
     const headPoint = this.body[0];
@@ -180,6 +196,27 @@ const food = {
   },
 };
 
+const rock = {
+  x: null,
+  y: null,
+
+  getCoordinates() {
+    return {
+      x: this.x,
+      y: this.y,
+    };
+  },
+
+  setCoordinates(point) {
+    this.x = point.x;
+    this.y = point.y;
+  },
+
+  isOnRock(point) {
+    return this.x === point.x && this.y === point.y;
+  },
+};
+
 const status = {
   condition: null,
 
@@ -209,6 +246,7 @@ const game = {
   map,
   snake,
   food,
+  rock,
   status,
   tickInterval: null,
 
@@ -292,6 +330,7 @@ const game = {
     this.stop();
     this.snake.init(this.getStartSnakeBody(), 'up');
     this.food.setCoordinates(this.getRandomFreeCoordinates());
+    this.rock.setCoordinates(this.getRandomFreeCoordinates());
     this.render();
   },
 
@@ -305,7 +344,7 @@ const game = {
   },
 
   getRandomFreeCoordinates() {
-    const exclude = [this.food.getCoordinates(), ...this.snake.getBody()];
+    const exclude = [this.food.getCoordinates(), ...this.snake.getBody(), this.rock.getCoordinates()];
     // without ... -  [{}, [{}, {}, {}]] => with ... [{}, {}, {}, {}];
     while (true) {
       const rndPoint = {
@@ -320,7 +359,7 @@ const game = {
   },
 
   render() {
-    this.map.render(this.snake.getBody(), this.food.getCoordinates());
+    this.map.render(this.snake.getBody(), this.food.getCoordinates(), this.rock.getCoordinates());
   },
 
   play() {
@@ -343,6 +382,12 @@ const game = {
     this.setPlayButton('Игра закончена', true);
   },
 
+  gameOver() {
+    this.status.setFinished();
+    clearInterval(this.tickInterval);
+    this.setPlayButton('Вы проиграли!', true);
+  },
+
   setPlayButton(text, isDisabled = false) {
     const playButton = document.getElementById('playButton');
 
@@ -352,6 +397,8 @@ const game = {
 
   tickHandler() {
     if (!this.canMakeStep()) return this.finish();
+
+    if (this.rock.isOnRock(this.snake.getNextStepHeadPoint())) return this.gameOver();
 
     if (this.food.isOnPoint(this.snake.getNextStepHeadPoint())) {
       this.snake.growUp();
@@ -379,4 +426,5 @@ const game = {
   },
 };
 
-game.init({speed: 5});
+game.init({speed:5});
+
