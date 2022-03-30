@@ -1,0 +1,515 @@
+2018-09-11T19:26:19.619Z	default	debug	EVE Launcher version 1225328
+2018-09-11T19:26:19.619Z	default	debug	Version type: "release"
+2018-09-11T19:26:19.619Z	default	debug	Running on "Windows 10" "10.0.14393"
+2018-09-11T19:26:19.620Z	default	debug	2 video drivers found
+2018-09-11T19:26:19.620Z	default	debug	Video driver vendor: "Intel Corporation"
+2018-09-11T19:26:19.620Z	default	debug	Video driver version: "9.17.10.4459"
+2018-09-11T19:26:19.620Z	default	debug	Video driver date: "5-19-2016"
+2018-09-11T19:26:19.620Z	default	debug	Video driver vendor: "Intel Corporation"
+2018-09-11T19:26:19.620Z	default	debug	Video driver version: "9.17.10.4459"
+2018-09-11T19:26:19.620Z	default	debug	Video driver date: "5-19-2016"
+2018-09-11T19:26:19.620Z	default	debug	System environment:
+2018-09-11T19:26:19.621Z	default	debug	"PROCESSOR_REVISION=2a07"
+2018-09-11T19:26:19.621Z	default	debug	"CommonProgramW6432=C:\\Program Files\\Common Files"
+2018-09-11T19:26:19.621Z	default	debug	"ProgramFiles=C:\\Program Files (x86)"
+2018-09-11T19:26:19.621Z	default	debug	"ENABLE_VK_LAYER_VALVE_steam_overlay_1=1"
+2018-09-11T19:26:19.621Z	default	debug	"__GL_SHADER_DISK_CACHE_APP_NAME=steamapp_shader_cache"
+2018-09-11T19:26:19.621Z	default	debug	"PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"
+2018-09-11T19:26:19.621Z	default	debug	"NUMBER_OF_PROCESSORS=8"
+2018-09-11T19:26:19.621Z	default	debug	"EnableConfiguratorSupport=112"
+2018-09-11T19:26:19.621Z	default	debug	"LOGONSERVER=\\\\WIN-JGS39D8JNL2"
+2018-09-11T19:26:19.621Z	default	debug	"SystemDrive=C:"
+2018-09-11T19:26:19.621Z	default	debug	"USERDOMAIN=WIN-JGS39D8JNL2"
+2018-09-11T19:26:19.621Z	default	debug	"__COMPAT_LAYER=ElevateCreateProcess"
+2018-09-11T19:26:19.621Z	default	debug	"PROCESSOR_ARCHITEW6432=AMD64"
+2018-09-11T19:26:19.621Z	default	debug	"__GL_SHADER_DISK_CACHE_PATH=C:\\Program Files (x86)\\Steam\\steamapps\\shadercache\\8500\\nvidiav1"
+2018-09-11T19:26:19.621Z	default	debug	"HOMEPATH=\\Users\\User"
+2018-09-11T19:26:19.621Z	default	debug	"SteamPath=C:\\Program Files (x86)\\Steam"
+2018-09-11T19:26:19.621Z	default	debug	"ProgramW6432=C:\\Program Files"
+2018-09-11T19:26:19.621Z	default	debug	"QT_D3DCREATE_MULTITHREADED=1"
+2018-09-11T19:26:19.621Z	default	debug	"ValvePlatformMutex=c:/program files (x86)/steam/steam.exe"
+2018-09-11T19:26:19.621Z	default	debug	"USERDOMAIN_ROAMINGPROFILE=WIN-JGS39D8JNL2"
+2018-09-11T19:26:19.621Z	default	debug	"ALLUSERSPROFILE=C:\\ProgramData"
+2018-09-11T19:26:19.621Z	default	debug	"CommonProgramFiles=C:\\Program Files (x86)\\Common Files"
+2018-09-11T19:26:19.621Z	default	debug	"USERPROFILE=C:\\Users\\User"
+2018-09-11T19:26:19.621Z	default	debug	"SteamStreamingHardwareEncodingAMD=1"
+2018-09-11T19:26:19.621Z	default	debug	"FPS_BROWSER_USER_PROFILE_STRING=Default"
+2018-09-11T19:26:19.621Z	default	debug	"OS=Windows_NT"
+2018-09-11T19:26:19.621Z	default	debug	"__GL_SHADER_DISK_CACHE_SKIP_CLEANUP=1"
+2018-09-11T19:26:19.621Z	default	debug	"COMPUTERNAME=WIN-JGS39D8JNL2"
+2018-09-11T19:26:19.621Z	default	debug	"=::=::\\"
+2018-09-11T19:26:19.621Z	default	debug	"LOCALAPPDATA=C:\\Users\\User\\AppData\\Local"
+2018-09-11T19:26:19.621Z	default	debug	"HOMEDRIVE=C:"
+2018-09-11T19:26:19.621Z	default	debug	"ROOTDRIVE=C"
+2018-09-11T19:26:19.621Z	default	debug	"STEAMID=76561198140876334"
+2018-09-11T19:26:19.621Z	default	debug	"SteamAppId=8500"
+2018-09-11T19:26:19.621Z	default	debug	"__GL_SHADER_DISK_CACHE_READ_ONLY_APP_NAME=steam_shader_cache"
+2018-09-11T19:26:19.621Z	default	debug	"APPDATA=C:\\Users\\User\\AppData\\Roaming"
+2018-09-11T19:26:19.621Z	default	debug	"CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files"
+2018-09-11T19:26:19.621Z	default	debug	"SystemRoot=C:\\Windows"
+2018-09-11T19:26:19.622Z	default	debug	"SteamStreamingHardwareEncodingIntel=1"
+2018-09-11T19:26:19.622Z	default	debug	"ComSpec=C:\\Windows\\system32\\cmd.exe"
+2018-09-11T19:26:19.622Z	default	debug	"ProgramFiles(x86)=C:\\Program Files (x86)"
+2018-09-11T19:26:19.622Z	default	debug	"SteamAppUser=mctasb"
+2018-09-11T19:26:19.622Z	default	debug	"MESA_GLSL_CACHE_DIR=C:\\Program Files (x86)\\Steam\\steamapps\\shadercache\\8500"
+2018-09-11T19:26:19.622Z	default	debug	"PROCESSOR_LEVEL=6"
+2018-09-11T19:26:19.622Z	default	debug	"SteamClientLaunch=1"
+2018-09-11T19:26:19.622Z	default	debug	"SteamStreamingHardwareEncodingNVIDIA=1"
+2018-09-11T19:26:19.622Z	default	debug	"SESSIONNAME=Console"
+2018-09-11T19:26:19.622Z	default	debug	"FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer"
+2018-09-11T19:26:19.622Z	default	debug	"TMP=C:\\Users\\User\\AppData\\Local\\Temp"
+2018-09-11T19:26:19.622Z	default	debug	"COMMON_MYDOCS=C:\\Users\\Public\\Documents"
+2018-09-11T19:26:19.622Z	default	debug	"PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules"
+2018-09-11T19:26:19.622Z	default	debug	"SteamGameId=8500"
+2018-09-11T19:26:19.622Z	default	debug	"=C:=C:\\Program Files (x86)\\Steam"
+2018-09-11T19:26:19.622Z	default	debug	"SteamUser=mctasb"
+2018-09-11T19:26:19.622Z	default	debug	"PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 42 Stepping 7, GenuineIntel"
+2018-09-11T19:26:19.622Z	default	debug	"USER_MYDOCS=C:\\Users\\User\\Documents"
+2018-09-11T19:26:19.622Z	default	debug	"LOCAL_APPDATA=C:\\Users\\User\\AppData\\Local"
+2018-09-11T19:26:19.622Z	default	debug	"Path=C:\\Program Files (x86)\\Steam;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\ATI Technologies\\ATI.ACE\\Core-Static;C:\\Program Files (x86)\\AMD\\ATI.ACE\\Core-Static;C:\\Users\\User\\AppData\\Local\\Microsoft\\WindowsApps;"
+2018-09-11T19:26:19.622Z	default	debug	"USERNAME=User"
+2018-09-11T19:26:19.622Z	default	debug	"ProgramData=C:\\ProgramData"
+2018-09-11T19:26:19.622Z	default	debug	"TEMP=C:\\Users\\User\\AppData\\Local\\Temp"
+2018-09-11T19:26:19.622Z	default	debug	"PUBLIC=C:\\Users\\Public"
+2018-09-11T19:26:19.622Z	default	debug	"PROCESSOR_ARCHITECTURE=x86"
+2018-09-11T19:26:19.622Z	default	debug	"windir=C:\\Windows"
+2018-09-11T19:26:19.622Z	default	debug	"SDL_GAMECONTROLLER_ALLOW_STEAM_VIRTUAL_GAMEPAD=1"
+2018-09-11T19:26:19.622Z	default	debug	"INSTALLDIR=C:\\Program Files (x86)\\Steam\\steamapps\\common\\Eve Online"
+2018-09-11T19:26:19.622Z	default	debug	Process ID: 7264
+2018-09-11T19:26:19.622Z	default	debug	Modules loaded:
+2018-09-11T19:26:19.622Z	default	debug	"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Eve Online\\launcher\\evelauncher.exe"
+2018-09-11T19:26:19.622Z	default	debug	"C:\\Windows\\SYSTEM32\\ntdll.dll"
+2018-09-11T19:26:19.623Z	default	debug	"C:\\Windows\\System32\\KERNEL32.DLL"
+2018-09-11T19:26:19.623Z	default	debug	"C:\\Windows\\System32\\KERNELBASE.dll"
+2018-09-11T19:26:19.623Z	default	debug	"C:\\Windows\\system32\\apphelp.dll"
+2018-09-11T19:26:19.623Z	default	debug	"C:\\Windows\\AppPatch\\AcLayers.DLL"
+2018-09-11T19:26:19.623Z	default	debug	"C:\\Windows\\System32\\msvcrt.dll"
+2018-09-11T19:26:19.623Z	default	debug	"C:\\Windows\\System32\\USER32.dll"
+2018-09-11T19:26:19.623Z	default	debug	"C:\\Windows\\System32\\win32u.dll"
+2018-09-11T19:26:19.623Z	default	debug	"C:\\Windows\\System32\\GDI32.dll"
+2018-09-11T19:26:19.623Z	default	debug	"C:\\Windows\\System32\\gdi32full.dll"
+2018-09-11T19:26:19.623Z	default	debug	"C:\\Windows\\System32\\SHELL32.dll"
+2018-09-11T19:26:19.623Z	default	debug	"C:\\Windows\\System32\\cfgmgr32.dll"
+2018-09-11T19:26:19.623Z	default	debug	"C:\\Windows\\System32\\windows.storage.dll"
+2018-09-11T19:26:19.623Z	default	debug	"C:\\Windows\\System32\\combase.dll"
+2018-09-11T19:26:19.623Z	default	debug	"C:\\Windows\\System32\\ucrtbase.dll"
+2018-09-11T19:26:19.623Z	default	debug	"C:\\Windows\\System32\\RPCRT4.dll"
+2018-09-11T19:26:19.623Z	default	debug	"C:\\Windows\\System32\\SspiCli.dll"
+2018-09-11T19:26:19.623Z	default	debug	"C:\\Windows\\System32\\CRYPTBASE.dll"
+2018-09-11T19:26:19.623Z	default	debug	"C:\\Windows\\System32\\bcryptPrimitives.dll"
+2018-09-11T19:26:19.623Z	default	debug	"C:\\Windows\\System32\\sechost.dll"
+2018-09-11T19:26:19.623Z	default	debug	"C:\\Windows\\System32\\powrprof.dll"
+2018-09-11T19:26:19.623Z	default	debug	"C:\\Windows\\System32\\advapi32.dll"
+2018-09-11T19:26:19.623Z	default	debug	"C:\\Windows\\System32\\shlwapi.dll"
+2018-09-11T19:26:19.623Z	default	debug	"C:\\Windows\\System32\\kernel.appcore.dll"
+2018-09-11T19:26:19.623Z	default	debug	"C:\\Windows\\System32\\shcore.dll"
+2018-09-11T19:26:19.624Z	default	debug	"C:\\Windows\\System32\\profapi.dll"
+2018-09-11T19:26:19.624Z	default	debug	"C:\\Windows\\System32\\OLEAUT32.dll"
+2018-09-11T19:26:19.624Z	default	debug	"C:\\Windows\\System32\\msvcp_win.dll"
+2018-09-11T19:26:19.624Z	default	debug	"C:\\Windows\\System32\\SETUPAPI.dll"
+2018-09-11T19:26:19.624Z	default	debug	"C:\\Windows\\SYSTEM32\\MPR.dll"
+2018-09-11T19:26:19.624Z	default	debug	"C:\\Windows\\SYSTEM32\\sfc.dll"
+2018-09-11T19:26:19.624Z	default	debug	"C:\\Windows\\SYSTEM32\\WINSPOOL.DRV"
+2018-09-11T19:26:19.624Z	default	debug	"C:\\Windows\\SYSTEM32\\bcrypt.dll"
+2018-09-11T19:26:19.624Z	default	debug	"C:\\Windows\\SYSTEM32\\sfc_os.DLL"
+2018-09-11T19:26:19.624Z	default	debug	"C:\\Windows\\System32\\IMM32.DLL"
+2018-09-11T19:26:19.624Z	default	debug	"C:\\Windows\\System32\\PSAPI.DLL"
+2018-09-11T19:26:19.624Z	default	debug	"C:\\Windows\\System32\\ole32.dll"
+2018-09-11T19:26:19.624Z	default	debug	"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Eve Online\\launcher\\steam_api.dll"
+2018-09-11T19:26:19.624Z	default	debug	"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Eve Online\\launcher\\Qt5WebEngineWidgets.dll"
+2018-09-11T19:26:19.624Z	default	debug	"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Eve Online\\launcher\\Qt5Widgets.dll"
+2018-09-11T19:26:19.624Z	default	debug	"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Eve Online\\launcher\\Qt5WinExtras.dll"
+2018-09-11T19:26:19.624Z	default	debug	"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Eve Online\\launcher\\Qt5Gui.dll"
+2018-09-11T19:26:19.624Z	default	debug	"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Eve Online\\launcher\\Qt5WebSockets.dll"
+2018-09-11T19:26:19.624Z	default	debug	"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Eve Online\\launcher\\Qt5Network.dll"
+2018-09-11T19:26:19.624Z	default	debug	"C:\\Windows\\System32\\WS2_32.dll"
+2018-09-11T19:26:19.625Z	default	debug	"C:\\Windows\\System32\\CRYPT32.dll"
+2018-09-11T19:26:19.625Z	default	debug	"C:\\Windows\\System32\\MSASN1.dll"
+2018-09-11T19:26:19.625Z	default	debug	"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Eve Online\\launcher\\Qt5Concurrent.dll"
+2018-09-11T19:26:19.625Z	default	debug	"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Eve Online\\launcher\\Qt5Core.dll"
+2018-09-11T19:26:19.625Z	default	debug	"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Eve Online\\launcher\\MSVCP120.dll"
+2018-09-11T19:26:19.625Z	default	debug	"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Eve Online\\launcher\\MSVCR120.dll"
+2018-09-11T19:26:19.625Z	default	debug	"C:\\Windows\\SYSTEM32\\WININET.dll"
+2018-09-11T19:26:19.625Z	default	debug	"C:\\Windows\\SYSTEM32\\DNSAPI.dll"
+2018-09-11T19:26:19.625Z	default	debug	"C:\\Windows\\System32\\NSI.dll"
+2018-09-11T19:26:19.625Z	default	debug	"C:\\Windows\\SYSTEM32\\IPHLPAPI.DLL"
+2018-09-11T19:26:19.625Z	default	debug	"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Eve Online\\launcher\\Qt5WebEngineCore.dll"
+2018-09-11T19:26:19.625Z	default	debug	"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Eve Online\\launcher\\Qt5Quick.dll"
+2018-09-11T19:26:19.625Z	default	debug	"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Eve Online\\launcher\\Qt5Qml.dll"
+2018-09-11T19:26:19.625Z	default	debug	"C:\\Windows\\System32\\COMDLG32.dll"
+2018-09-11T19:26:19.625Z	default	debug	"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Eve Online\\launcher\\Qt5WebChannel.dll"
+2018-09-11T19:26:19.625Z	default	debug	"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Eve Online\\launcher\\Qt5Positioning.dll"
+2018-09-11T19:26:19.625Z	default	debug	"C:\\Windows\\WinSxS\\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.14393.447_none_5507ded2cb4f7f4c\\COMCTL32.dll"
+2018-09-11T19:26:19.626Z	default	debug	"C:\\Windows\\SYSTEM32\\Secur32.dll"
+2018-09-11T19:26:19.626Z	default	debug	"C:\\Windows\\SYSTEM32\\WINHTTP.dll"
+2018-09-11T19:26:19.626Z	default	debug	"C:\\Windows\\SYSTEM32\\dhcpcsvc.DLL"
+2018-09-11T19:26:19.626Z	default	debug	"C:\\Windows\\SYSTEM32\\urlmon.dll"
+2018-09-11T19:26:19.626Z	default	debug	"C:\\Windows\\SYSTEM32\\USERENV.dll"
+2018-09-11T19:26:19.626Z	default	debug	"C:\\Windows\\SYSTEM32\\VERSION.dll"
+2018-09-11T19:26:19.626Z	default	debug	"C:\\Windows\\SYSTEM32\\USP10.dll"
+2018-09-11T19:26:19.626Z	default	debug	"C:\\Windows\\SYSTEM32\\WINMM.dll"
+2018-09-11T19:26:19.626Z	default	debug	"C:\\Windows\\SYSTEM32\\iertutil.dll"
+2018-09-11T19:26:19.626Z	default	debug	"C:\\Windows\\SYSTEM32\\WINMMBASE.dll"
+2018-09-11T19:26:19.626Z	default	debug	"C:\\Program Files (x86)\\Steam\\gameoverlayrenderer.dll"
+2018-09-11T19:26:19.626Z	default	debug	"C:\\Windows\\SYSTEM32\\dbghelp.dll"
+2018-09-11T19:26:19.626Z	default	debug	"C:\\Windows\\SYSTEM32\\dbgcore.DLL"
+2018-09-11T19:26:19.626Z	default	debug	"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Eve Online\\launcher\\platforms\\qwindows.dll"
+2018-09-11T19:26:19.627Z	default	debug	"C:\\Windows\\system32\\uxtheme.dll"
+2018-09-11T19:26:19.627Z	default	debug	"C:\\Windows\\system32\\dwmapi.dll"
+2018-09-11T19:26:19.627Z	default	debug	"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Eve Online\\launcher\\opengl32sw.dll"
+2018-09-11T19:26:19.627Z	default	debug	"C:\\Windows\\System32\\imagehlp.dll"
+2018-09-11T19:26:19.627Z	default	debug	"C:\\Windows\\SYSTEM32\\opengl32.dll"
+2018-09-11T19:26:19.627Z	default	debug	"C:\\Windows\\SYSTEM32\\DDRAW.dll"
+2018-09-11T19:26:19.627Z	default	debug	"C:\\Windows\\SYSTEM32\\GLU32.dll"
+2018-09-11T19:26:19.627Z	default	debug	"C:\\Windows\\SYSTEM32\\DCIMAN32.dll"
+2018-09-11T19:26:19.627Z	default	debug	"C:\\Windows\\SYSTEM32\\atiglpxx.dll"
+2018-09-11T19:26:19.627Z	default	debug	"C:\\Windows\\SYSTEM32\\atiadlxx.dll"
+2018-09-11T19:26:19.627Z	default	debug	"C:\\Windows\\SYSTEM32\\PROPSYS.dll"
+2018-09-11T19:26:19.627Z	default	debug	"C:\\Windows\\SYSTEM32\\WTSAPI32.dll"
+2018-09-11T19:26:19.627Z	default	debug	"C:\\Windows\\SYSTEM32\\DEVOBJ.dll"
+2018-09-11T19:26:19.628Z	default	debug	"C:\\Windows\\System32\\WINTRUST.dll"
+2018-09-11T19:26:19.628Z	default	debug	"C:\\Windows\\SYSTEM32\\ig4icd32.dll"
+2018-09-11T19:26:19.628Z	default	debug	"C:\\Windows\\SYSTEM32\\atigktxx.dll"
+2018-09-11T19:26:19.628Z	default	debug	"C:\\Windows\\system32\\napinsp.dll"
+2018-09-11T19:26:19.628Z	default	debug	"C:\\Windows\\system32\\pnrpnsp.dll"
+2018-09-11T19:26:19.628Z	default	debug	"C:\\Windows\\system32\\NLAapi.dll"
+2018-09-11T19:26:19.628Z	default	debug	"C:\\Windows\\System32\\mswsock.dll"
+2018-09-11T19:26:19.628Z	default	debug	"C:\\Windows\\System32\\winrnr.dll"
+2018-09-11T19:26:19.628Z	default	debug	"C:\\Windows\\System32\\wshbth.dll"
+2018-09-11T19:26:19.628Z	default	debug	"C:\\Windows\\SYSTEM32\\dhcpcsvc6.DLL"
+2018-09-11T19:26:20.339Z	default	debug	Creating network configuration manager
+2018-09-11T19:26:20.340Z	default	debug	Network configuration manager is online
+2018-09-11T19:26:20.340Z	default	debug	Loggly session: "ls82a3589a9e778e78178a98ab02bad102"
+2018-09-11T19:26:20.340Z	default	debug	Run clients with logging: false
+2018-09-11T19:26:20.340Z	default	debug	Run clients with DX9: false
+2018-09-11T19:26:20.340Z	default	debug	Download everything: false
+2018-09-11T19:26:20.340Z	default	debug	Language: ""
+2018-09-11T19:26:20.340Z	default	debug	Ignore certification errors: false
+2018-09-11T19:26:20.340Z	default	debug	Qt version: 5.7.0
+2018-09-11T19:26:20.340Z	default	debug	Current folder: "C:/Program Files (x86)/Steam/steamapps/common/Eve Online"
+2018-09-11T19:26:20.340Z	default	debug	Cache folder: "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/"
+2018-09-11T19:26:20.341Z	default	debug	Application dir: "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/launcher"
+2018-09-11T19:26:20.341Z	default	debug	Client logs folder: "C:/Users/User/AppData/Local/CCP/EVE/ClientLogs"
+2018-09-11T19:26:20.341Z	default	debug	Base url for binaries: "https://binaries.eveonline.com/"
+2018-09-11T19:26:20.341Z	default	debug	Base url for resources: "https://resources.eveonline.com/"
+2018-09-11T19:26:20.344Z	default	debug	Space available on "C:/" : "29.35GB"
+2018-09-11T19:26:20.344Z	default	debug	Creating main window
+2018-09-11T19:26:20.421Z	default	debug	Initializing servers
+2018-09-11T19:26:20.423Z	default	debug	Connecting signals for "tq"
+2018-09-11T19:26:20.423Z	default	debug	Connecting signals for "sisi"
+2018-09-11T19:26:20.423Z	default	debug	Connecting signals for "duality"
+2018-09-11T19:26:20.482Z	default	debug	Clearing local storage for test servers
+2018-09-11T19:26:20.482Z	default	debug	Checking gui version at "https://launcher.eveonline.com/version.json"
+2018-09-11T19:26:20.483Z	default	debug	Web engine cache path: "C:/Users/User/AppData/Local/CCP/EVE/cache/QtWebEngine/Default"
+2018-09-11T19:26:20.483Z	default	debug	Web engine persistent storage path: "C:/Users/User/AppData/Local/CCP/EVE/QtWebEngine/Default"
+2018-09-11T19:26:20.483Z	default	debug	Web engine persistent cookies policy: 1
+2018-09-11T19:26:20.485Z	default	debug	Checking running processes
+2018-09-11T19:26:20.492Z	default	debug	Entering app.exec
+2018-09-11T19:26:20.493Z	default	debug	Scheduled task "Gui version info downloader"
+2018-09-11T19:26:20.493Z	default	debug	Starting task "Gui version info downloader"
+2018-09-11T19:26:20.503Z	default	debug	"Gui version info downloader" go: 0.01
+2018-09-11T19:26:23.599Z	default	error	Couldn't open QUrl("file:///errorpage/index.html")
+2018-09-11T19:26:23.960Z	default	debug	Starting refresh cycle
+2018-09-11T19:26:23.960Z	default	debug	Checking connection to launcher.eveonline.com
+2018-09-11T19:26:23.961Z	default	debug	Checking connection to binaries.eveonline.com
+2018-09-11T19:26:23.961Z	default	debug	Checking connection to resources.eveonline.com
+2018-09-11T19:26:23.969Z	web	error	error: Uncaught ReferenceError: setHeading is not defined 1 
+2018-09-11T19:26:23.969Z	web	error	error: Uncaught ReferenceError: setMessage is not defined 1 
+2018-09-11T19:26:25.478Z	default	debug	Gui version is release/3104
+2018-09-11T19:26:27.409Z	default	debug	Loading web gui from https://launcher.eveonline.com/release/3104/?steam_ticket=1400000067a452649114a4ac2ee6c30a01001001a4eb975b180000000100000002000000dd942a2e6900a8c0f86f040001000000b200000032000000040000002ee6c30a0100100134210000dd942a2e6900a8c0000000003dec975bbd9bb35b01002f220200000000005d70b5cdabceb413dcbbf4113a02c14d0a10153e003c2f2995870d07dc4cadba4c073fa036d91c5f87482ec0512d884d1a5df0ac61e93d7c6a52170ea672106d25bfc5bbad07fa4afdc9f8666ec6704c6c3b86dca874bbf68d849be2c44dd341b90260c040a552e85ae1ed7c9850987ed3f6808b4d08a0c0a8f6a20779c5ee97
+2018-09-11T19:26:27.419Z	default	debug	Finished task "Gui version info downloader"
+2018-09-11T19:26:27.419Z	default	debug	binaries.eveonline.com connected
+2018-09-11T19:26:27.420Z	default	debug	launcher.eveonline.com connected
+2018-09-11T19:26:27.504Z	default	debug	resources.eveonline.com connected
+2018-09-11T19:26:27.504Z	default	debug	Checking version at "https://binaries.eveonline.com/evelauncher_win_release.json"
+2018-09-11T19:26:27.505Z	default	debug	Scheduled task "Version info downloader"
+2018-09-11T19:26:27.505Z	default	debug	Starting task "Version info downloader"
+2018-09-11T19:26:27.506Z	default	debug	"Version info downloader" go: 0.001
+2018-09-11T19:26:27.735Z	default	debug	Official version is "1380309"
+2018-09-11T19:26:27.735Z	default	debug	Finished task "Version info downloader"
+2018-09-11T19:26:28.426Z	default	debug	Scheduled task "Index downloader for self updating"
+2018-09-11T19:26:28.426Z	default	debug	Starting task "Index downloader for self updating"
+2018-09-11T19:26:28.427Z	default	debug	"Index downloader for self updating" go: 0
+2018-09-11T19:26:28.594Z	default	debug	Finished task "Index downloader for self updating"
+2018-09-11T19:26:28.594Z	default	debug	Scheduled task "Downloader for self update"
+2018-09-11T19:26:28.595Z	default	debug	Starting task "Downloader for self update"
+2018-09-11T19:26:28.595Z	default	debug	"Downloader for self update" go: 0
+2018-09-11T19:26:28.595Z	download	debug	"Downloader for self update" addMissingFilesToQueue checking 144 files
+2018-09-11T19:26:28.601Z	download	debug	Downloader for self update addMissingFilesToQueue took 0.006 seconds
+2018-09-11T19:26:28.601Z	download	debug	Resuming "Downloader for self update"
+2018-09-11T19:26:28.601Z	download	debug	"Downloader for self update" has 144 files to download
+2018-09-11T19:26:28.601Z	default	debug	Downloading 03/036ba71150023b63_4fad4817fa44215028d612d99ba31433 ( app:/libGLESV2.dll )
+2018-09-11T19:26:28.601Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/03"
+2018-09-11T19:26:28.602Z	default	debug	Downloading 05/0560951e49bb74c4_afa513510c729df395bdf22e2c7fc05d ( app:/styles/qwindowsvistastyle.dll )
+2018-09-11T19:26:28.603Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/05"
+2018-09-11T19:26:28.604Z	default	debug	Downloading 06/069f8051479f9d47_175582a380baa03bb8664d90ec1d1ab2 ( app:/translations/qt_da.qm )
+2018-09-11T19:26:28.604Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/06"
+2018-09-11T19:26:28.606Z	default	debug	Downloading 09/098afca6b2531ae7_4c5020a2772cd520e19acb512791c355 ( app:/errorpage/bg.jpg )
+2018-09-11T19:26:28.606Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/09"
+2018-09-11T19:26:28.607Z	default	debug	Downloading 09/0982e16ebf24cb56_c56f5c1fce94b32729deb269dc99e780 ( app:/fixpermissions.exe )
+2018-09-11T19:26:28.607Z	default	debug	Downloading 0f/0f7cbc73911b0a52_1019e81acd09f6bbea3f67e66188a204 ( app:/Qt5SerialPort.dll )
+2018-09-11T19:26:28.608Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/0f"
+2018-09-11T19:26:28.609Z	default	debug	Downloading 10/10d89f579ca49c46_f82b412a1ce0d06694c0302dd3479b11 ( app:/Qt5WinExtras.dll )
+2018-09-11T19:26:28.610Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/10"
+2018-09-11T19:26:28.611Z	default	debug	Downloading 14/144e89217cfc08bd_33b541dd1131e0c784aba0a799ec91b5 ( app:/opengl32sw.dll )
+2018-09-11T19:26:28.611Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/14"
+2018-09-11T19:26:28.612Z	default	debug	Downloading 14/14343bf039e7e5ea_6c27f051631d6e86baa9faa02efb2a7c ( app:/translations/qtwebengine_locales/ko.pak )
+2018-09-11T19:26:28.613Z	default	debug	Downloading 15/1516eb4dc2a731fa_2ac850f75706387584f412894f9f326f ( app:/translations/qtwebengine_locales/sw.pak )
+2018-09-11T19:26:28.613Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/15"
+2018-09-11T19:26:28.863Z	default	debug	Downloading 16/166fcb7773e48cbd_d1ee9be4baf037f0d53d1ee8eae73c8e ( app:/imageformats/qtiff.dll )
+2018-09-11T19:26:28.864Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/16"
+2018-09-11T19:26:28.923Z	default	debug	Downloading 1a/1a99057fafa52b0b_9422d5f927bb234cd70ea54710543c51 ( app:/translations/qtwebengine_locales/vi.pak )
+2018-09-11T19:26:28.923Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/1a"
+2018-09-11T19:26:28.996Z	default	debug	Downloading 1b/1b70a68d2b975d9a_987e045e06aeba29a8e05a074e6bdb91 ( app:/translations/qt_cs.qm )
+2018-09-11T19:26:28.996Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/1b"
+2018-09-11T19:26:29.018Z	default	debug	Downloading 1d/1d10f35d1b900eb2_5a56945798ca252646debe7b0c20bd95 ( app:/Qt5Positioning.dll )
+2018-09-11T19:26:29.018Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/1d"
+2018-09-11T19:26:29.027Z	default	debug	Downloading 1f/1fe0e3c64eb64ce9_ae96651cfbd18991d186a029cbecb30c ( app:/vcruntime140.dll )
+2018-09-11T19:26:29.027Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/1f"
+2018-09-11T19:26:29.390Z	default	debug	Downloading 21/2172fdf6f088840c_563115c68df3f527d1c85343b03f2dcf ( app:/libprotobuf-lite.dll )
+2018-09-11T19:26:29.391Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/21"
+2018-09-11T19:26:29.399Z	default	debug	Downloading 22/2234cdaab37d90ed_1ddc9fb295b5bdb080e0b39aad7d512c ( app:/translations/qtwebengine_locales/sl.pak )
+2018-09-11T19:26:29.399Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/22"
+2018-09-11T19:26:29.525Z	default	debug	Downloading 24/246b6c6223c69646_7c955ecb29c06fe81e1a0a947c35afbe ( app:/libeay32.dll )
+2018-09-11T19:26:29.526Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/24"
+2018-09-11T19:26:29.605Z	default	debug	Downloading 24/245a9674059434be_60373cbb0197d29f4081531bfa4ea0f4 ( app:/translations/qtwebengine_locales/en-US.pak )
+2018-09-11T19:26:29.815Z	default	debug	Downloading 25/2590594048298672_f814dc7658c03b52c2670a22b1065185 ( app:/resources/qtwebengine_resources.pak )
+2018-09-11T19:26:29.815Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/25"
+2018-09-11T19:26:29.847Z	default	debug	Downloading 28/2826e498ab400e37_a5d2d3829ef0453b46a09cd3869a3f24 ( app:/translations/qtwebengine_locales/ja.pak )
+2018-09-11T19:26:29.847Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/28"
+2018-09-11T19:26:29.851Z	default	debug	Downloading 29/29611c515b578af3_5ab199fd199608b93d5e3a3928d409cd ( app:/translations/qt_de.qm )
+2018-09-11T19:26:29.851Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/29"
+2018-09-11T19:26:29.885Z	default	debug	Downloading 2b/2bd1086306ee4b4d_37057a398e85b56faa96289053282d95 ( app:/translations/qt_fi.qm )
+2018-09-11T19:26:29.885Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/2b"
+2018-09-11T19:26:30.057Z	default	debug	Downloading 2b/2be83b14734f267c_c54e1e9be19f2b63dcd15accf252e462 ( app:/translations/qtwebengine_locales/lt.pak )
+2018-09-11T19:26:30.130Z	default	debug	Downloading 2d/2d8561e63e15eea2_a224b51fc514f8b3c2c5db6a9f58b90a ( app:/bearer/qgenericbearer.dll )
+2018-09-11T19:26:30.130Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/2d"
+2018-09-11T19:26:30.458Z	default	debug	Downloading 2d/2d0a5d3f5030d0c9_4835a9b8749970d0ad04f22a546042af ( app:/msvcp140.dll )
+2018-09-11T19:26:30.726Z	default	debug	Downloading 2f/2f8072f316d72a83_8001b9ec958a946d21e37cec20fcb005 ( app:/resources/qtwebengine_devtools_resources.pak )
+2018-09-11T19:26:30.726Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/2f"
+2018-09-11T19:26:30.773Z	default	debug	Downloading 2f/2febe7003389cff6_0fe34672effa41017dff670bfc86dd88 ( app:/translations/qtwebengine_locales/nl.pak )
+2018-09-11T19:26:31.299Z	default	debug	Downloading 32/3297fb3896880c2c_93a83a9d391db83731d7f0c23bd71f17 ( app:/translations/qtwebengine_locales/fr.pak )
+2018-09-11T19:26:31.299Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/32"
+2018-09-11T19:26:31.344Z	default	debug	Downloading 33/3367cee17b0bf32d_e5ebaf794b1003e58f111ad636d0efa0 ( app:/grpc_csharp_ext.dll )
+2018-09-11T19:26:31.344Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/33"
+2018-09-11T19:26:31.553Z	default	debug	Downloading 33/33993246903bb5ee_232d73a2f3e22d6c98b7b245bc705086 ( app:/translations/qt_ko.qm )
+2018-09-11T19:26:31.630Z	default	debug	Downloading 37/374daea6d42c0468_7af22981b236e6fc5b2cb4ad9002b92d ( app:/Qt5Concurrent.dll )
+2018-09-11T19:26:31.630Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/37"
+2018-09-11T19:26:32.244Z	default	debug	Downloading 39/39b0442ea1293bb7_6a8a53d365f564be4804b3f1167186ad ( app:/translations/qt_he.qm )
+2018-09-11T19:26:32.244Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/39"
+2018-09-11T19:26:32.799Z	default	debug	Downloading 39/39a3297c2e58dc1f_a457d08b91a37e6676fcdda38ba164e1 ( app:/translations/qtwebengine_locales/et.pak )
+2018-09-11T19:26:33.023Z	default	debug	Downloading 3d/3d3896b6010021fa_4a845259d70c0af199d1d22e89bfa3f2 ( app:/Qt5Core.dll )
+2018-09-11T19:26:33.023Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/3d"
+2018-09-11T19:26:33.185Z	default	debug	Downloading 3d/3d35c1815b508ec7_50d42d2ef46449475dac4b96450f648a ( app:/ssleay32.dll )
+2018-09-11T19:26:33.215Z	default	debug	Downloading 3f/3f7e5f58416778eb_4aef4415f2e976b2cc6f24b877804a57 ( app:/translations/qt_en.qm )
+2018-09-11T19:26:33.215Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/3f"
+2018-09-11T19:26:33.420Z	default	debug	Downloading 3f/3f4181d3ffd32c8c_37b77c5f0a1925577ca4b5a53bb267f4 ( app:/translations/qt_uk.qm )
+2018-09-11T19:26:33.422Z	default	debug	Downloading 42/425e3b997f0d0815_42de8b18e664ae999abc42a4606159cd ( app:/cares.dll )
+2018-09-11T19:26:33.423Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/42"
+2018-09-11T19:26:33.968Z	default	debug	Downloading 44/4416737489cb6184_1f146d69f7b93bff7a7ecbb906c2fa59 ( app:/translations/qtwebengine_locales/nb.pak )
+2018-09-11T19:26:33.969Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/44"
+2018-09-11T19:26:34.413Z	default	debug	Downloading 45/455f87fac818790c_d1a13a885bbd5b628c9b841ebc40e0fb ( app:/Qt5WebChannel.dll )
+2018-09-11T19:26:34.413Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/45"
+2018-09-11T19:26:34.823Z	default	debug	Downloading 4a/4a58d9c8a3a049d5_e736c73420392bf56703f9457c9e0dbd ( app:/translations/qtwebengine_locales/te.pak )
+2018-09-11T19:26:34.823Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/4a"
+2018-09-11T19:26:34.839Z	default	debug	Downloading 4c/4c6b5e35b68a03cf_f644f0f97ce99a34567c19ef2eb07741 ( app:/Qt5Network.dll )
+2018-09-11T19:26:34.839Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/4c"
+2018-09-11T19:26:35.126Z	default	debug	Downloading 4d/4dd60fd292e3c7cd_89327de4c06d685e28276642f9f28b36 ( app:/evelauncher_de.qm )
+2018-09-11T19:26:35.126Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/4d"
+2018-09-11T19:26:35.182Z	default	debug	Downloading 4d/4d294238df51d781_fe0f453426b7de22b927ab1787fdc512 ( app:/position/qtposition_serialnmea.dll )
+2018-09-11T19:26:35.398Z	default	debug	Downloading 4e/4e23e75f8a09790b_8e5b533c9006f7f0d2a6869dd7acf612 ( app:/libprotoc.dll )
+2018-09-11T19:26:35.398Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/4e"
+2018-09-11T19:26:35.468Z	default	debug	Downloading 4e/4ef588075e29efbf_09e3ed722129a9ae82d4a8e0d4415858 ( app:/resources/icudtl.dat )
+2018-09-11T19:26:35.779Z	default	debug	Downloading 53/5332df5bcdc53bac_b84296c13a34982c0d114d7abd6cd180 ( app:/translations/qtwebengine_locales/ms.pak )
+2018-09-11T19:26:35.779Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/53"
+2018-09-11T19:26:36.009Z	default	debug	Downloading 55/5573ef27e7ea4023_e116725690eea3938870f046c12205db ( app:/libprotobuf.dll )
+2018-09-11T19:26:36.009Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/55"
+2018-09-11T19:26:36.181Z	default	debug	Downloading 57/57e6b8e19f3b2cd1_e43514dc3e4e5d7361ee70b9ed7e3241 ( app:/translations/qtwebengine_locales/he.pak )
+2018-09-11T19:26:36.181Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/57"
+2018-09-11T19:26:36.600Z	web	debug	info: Detected Steam startup 1 https://launcher.eveonline.com/release/3104/static/js/main.a01d7d9b.js
+2018-09-11T19:26:36.647Z	default	debug	handleCommand: "javascriptReady"
+2018-09-11T19:26:36.647Z	default	debug	"addServers([{'name': 'tq', 'displayName': 'Tranquility'}, {'name': 'sisi', 'displayName': 'Singularity'}, {'name': 'duality', 'displayName': 'Duality'}, {'name': 'thunderdome', 'displayName': 'Thunderdome'}])"
+2018-09-11T19:26:36.647Z	default	debug	Refresh already in progress
+2018-09-11T19:26:36.665Z	default	debug	QUrl("https://launcher.eveonline.com/release/3104/?steam_ticket=1400000067a452649114a4ac2ee6c30a01001001a4eb975b180000000100000002000000dd942a2e6900a8c0f86f040001000000b200000032000000040000002ee6c30a0100100134210000dd942a2e6900a8c0000000003dec975bbd9bb35b01002f220200000000005d70b5cdabceb413dcbbf4113a02c14d0a10153e003c2f2995870d07dc4cadba4c073fa036d91c5f87482ec0512d884d1a5df0ac61e93d7c6a52170ea672106d25bfc5bbad07fa4afdc9f8666ec6704c6c3b86dca874bbf68d849be2c44dd341b90260c040a552e85ae1ed7c9850987ed3f6808b4d08a0c0a8f6a20779c5ee97") opened succesfully
+2018-09-11T19:26:37.582Z	web	debug	info: Steam login: Code received, opening login window... 1 https://launcher.eveonline.com/release/3104/static/js/main.a01d7d9b.js
+2018-09-11T19:26:37.583Z	default	debug	Downloading 57/5724f967023afd01_07df5667278a2a4b5140e4fd1ab27d15 ( app:/translations/qtwebengine_locales/hu.pak )
+2018-09-11T19:26:37.584Z	default	debug	Downloading 58/580f12dbb85eeec0_11b49ae370a09543948fa4c416637bc4 ( app:/Qt5Gui.dll )
+2018-09-11T19:26:37.584Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/58"
+2018-09-11T19:26:37.632Z	default	debug	Downloading 5a/5acec7a5de7abe64_53f59cf2c93da6e9173b2feb57eec07b ( app:/translations/qtwebengine_locales/es.pak )
+2018-09-11T19:26:37.632Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/5a"
+2018-09-11T19:26:37.703Z	default	debug	Downloading 5c/5c9dbf0a47d9f5be_2dfc7c2bf2453ccc6d465037141cc658 ( app:/translations/qtwebengine_locales/tr.pak )
+2018-09-11T19:26:37.703Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/5c"
+2018-09-11T19:26:38.055Z	default	debug	Downloading 5f/5fc5bbe7591e9fa9_41cd333767d223e0e140f9a727a9f39a ( app:/LogLite.exe )
+2018-09-11T19:26:38.055Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/5f"
+2018-09-11T19:26:38.084Z	default	debug	handleCommand: "getprofiles"
+2018-09-11T19:26:38.084Z	web	debug	info: locale switched from en to en 1 https://launcher.eveonline.com/release/3104/static/js/main.a01d7d9b.js
+2018-09-11T19:26:38.084Z	web	debug	info: No users were found in localforage 1 https://launcher.eveonline.com/release/3104/static/js/main.a01d7d9b.js
+2018-09-11T19:26:38.434Z	default	debug	Downloading 65/6505ea33262e8cfc_efc335d2872eba6bdc800507cabf0f13 ( app:/imageformats/qtga.dll )
+2018-09-11T19:26:38.434Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/65"
+2018-09-11T19:26:38.656Z	default	debug	Downloading 66/66a70d64e13d0f4b_898fbdacb25369e2c8969f5e986ed5a3 ( app:/translations/qtwebengine_locales/ru.pak )
+2018-09-11T19:26:38.657Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/66"
+2018-09-11T19:26:38.885Z	default	debug	Downloading 67/678f3144482391e5_a38097c36c216e9058419c7ddbb7dfa9 ( app:/translations/qtwebengine_locales/hi.pak )
+2018-09-11T19:26:38.885Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/67"
+2018-09-11T19:26:39.144Z	default	debug	Downloading 68/684a70c18865310a_6994907ca042a0d27f3cbb1018e46b24 ( app:/evelauncher_fr.qm )
+2018-09-11T19:26:39.144Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/68"
+2018-09-11T19:26:39.925Z	web	debug	info: Detected UI version 3104 1 https://launcher.eveonline.com/release/3104/static/js/main.a01d7d9b.js
+2018-09-11T19:26:41.663Z	default	debug	Downloading 69/698187049f211dd2_b444790ffde18c6de307a5faaa0bd19a ( app:/translations/qtwebengine_locales/lv.pak )
+2018-09-11T19:26:41.663Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/69"
+2018-09-11T19:26:42.666Z	default	debug	Downloading 6b/6ba60bb2cb9322a0_2e4654cb413eb0106f851a892b53e2ca ( app:/qt.conf )
+2018-09-11T19:26:42.666Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/6b"
+2018-09-11T19:26:42.671Z	default	debug	Downloading 6d/6d65c67022c93e3d_6afb3837144e24846bfce7a929e0fb47 ( app:/QtWebEngineProcess.exe )
+2018-09-11T19:26:42.671Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/6d"
+2018-09-11T19:26:42.678Z	default	debug	Downloading 6e/6ee8925fed813ea3_6fd38264890368d5d3742d2924f5dae1 ( app:/Qt5Svg.dll )
+2018-09-11T19:26:42.678Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/6e"
+2018-09-11T19:26:42.682Z	default	debug	Downloading 72/721fcbacb256bc91_cf1f7f3e7c30ed97113b667a414fd5d3 ( app:/concrt140.dll )
+2018-09-11T19:26:42.682Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/72"
+2018-09-11T19:26:43.055Z	default	debug	Downloading 72/7283ee61e4c72fd2_cc5cb71dd98151e07b83e023bed40911 ( app:/imageformats/qsvg.dll )
+2018-09-11T19:26:43.141Z	default	debug	Downloading 72/72d4fbd70716b66a_bb9b7f88879a2a0acef336d5fcd014ff ( app:/steam_api.dll )
+2018-09-11T19:26:43.341Z	default	debug	Downloading 73/732b4bfe4ae1cd95_8ba9ecfaa098f425c1f9c738c30f6c58 ( app:/translations/qt_ru.qm )
+2018-09-11T19:26:43.341Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/73"
+2018-09-11T19:26:43.443Z	default	debug	Downloading 74/7417c47cc6dbf0b0_4e1882302473cce035fc3fea70248cd3 ( app:/Qt5WebEngineCore.dll )
+2018-09-11T19:26:43.443Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/74"
+2018-09-11T19:26:43.894Z	default	debug	Downloading 75/75b19aec112680e4_21fd5a57833b5674a8e3e36af750ce24 ( app:/translations/qt_pl.qm )
+2018-09-11T19:26:43.894Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/75"
+2018-09-11T19:26:44.171Z	default	debug	Downloading 77/77f6e26fc9ece528_5d8e72ca2bb53e16f4bb622c7b40a87d ( app:/translations/qtwebengine_locales/zh-CN.pak )
+2018-09-11T19:26:44.171Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/77"
+2018-09-11T19:26:44.712Z	default	debug	Downloading 79/79fad4eea33283fb_3fb6de681066ecc13c93a59b90613c5c ( app:/translations/qtwebengine_locales/fi.pak )
+2018-09-11T19:26:44.712Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/79"
+2018-09-11T19:26:44.720Z	default	debug	Downloading 7a/7aeeb6afe10993cb_77cda97cc329d3175daa18b24935c62d ( app:/Qt5Qml.dll )
+2018-09-11T19:26:44.720Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/7a"
+2018-09-11T19:26:45.035Z	default	debug	Downloading 7c/7ce5e84da87363b5_e8226efb3b6108bd19ea8eb8a83feafe ( app:/Qt5PrintSupport.dll )
+2018-09-11T19:26:45.035Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/7c"
+2018-09-11T19:26:45.455Z	default	debug	Downloading 7f/7f897d6433704ca2_ed31e5d134542c55b5e5e3808c248148 ( app:/Qt5Widgets.dll )
+2018-09-11T19:26:45.455Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/7f"
+2018-09-11T19:26:45.882Z	default	debug	Downloading 7f/7faec88cd36a1bb0_21fb29e06a28ce53710b30ddd5a613ea ( app:/translations/qt_ca.qm )
+2018-09-11T19:26:47.185Z	default	debug	Downloading 82/8211758bc66cad5c_7472c0cdc89c224dbae61e28205f8822 ( app:/position/qtposition_geoclue.dll )
+2018-09-11T19:26:47.185Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/82"
+2018-09-11T19:26:49.061Z	default	debug	Downloading 82/82f273a4c1bfed0e_69f37fa0e30c686ac0d43e4e0ceb83f9 ( app:/translations/qtwebengine_locales/cs.pak )
+2018-09-11T19:26:51.005Z	default	debug	Downloading 87/87513ffd516d82e7_c5b362bce86bb0ad3149c4540201331d ( app:/d3dcompiler_47.dll )
+2018-09-11T19:26:51.005Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/87"
+2018-09-11T19:26:54.133Z	default	debug	Downloading 88/883707310c1a9018_9b50a9b9886800bb4b219f5087255547 ( app:/translations/qtwebengine_locales/ca.pak )
+2018-09-11T19:26:54.134Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/88"
+2018-09-11T19:26:55.493Z	default	debug	Downloading 88/88bacf6df8457342_4e605dc3a0674aa1685181cf5f8660f3 ( app:/translations/qtwebengine_locales/hr.pak )
+2018-09-11T19:26:57.596Z	default	debug	Downloading 88/88e1c6645f1d38fc_d3748471fa08ab3116ca6874282f2cad ( app:/translations/qtwebengine_locales/uk.pak )
+2018-09-11T19:26:59.687Z	default	debug	Downloading 8b/8b6ced0d3bd8f542_1b123d6fca42f580795e0e5fa4f31b98 ( app:/platforms/qwindows.dll )
+2018-09-11T19:26:59.687Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/8b"
+2018-09-11T19:27:03.721Z	default	debug	Downloading 8e/8ee4782f2ed71eb2_315ebf85084904e28c24f5ce74781f78 ( app:/imageformats/qjpeg.dll )
+2018-09-11T19:27:03.721Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/8e"
+2018-09-11T19:27:04.061Z	default	debug	Downloading 8e/8efbb9f87a51ff6b_5a085d7bebc71c83ff39c7fff51fced7 ( app:/translations/qtwebengine_locales/kn.pak )
+2018-09-11T19:27:04.397Z	default	debug	Downloading 92/9246d9682663155d_b466a360ad4dd4ebe398afd684e880ea ( app:/evelauncher.exe )
+2018-09-11T19:27:04.397Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/92"
+2018-09-11T19:27:04.774Z	default	debug	Downloading 94/94038679c84889c9_a151466e726fbc6270d5422fa39a05fb ( app:/translations/qtwebengine_locales/fil.pak )
+2018-09-11T19:27:04.775Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/94"
+2018-09-11T19:27:04.964Z	default	debug	Downloading 95/950400a522c622c1_515da9cad8646bef69bcd38626128608 ( app:/translations/qtwebengine_locales/en-GB.pak )
+2018-09-11T19:27:04.964Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/95"
+2018-09-11T19:27:05.287Z	default	debug	Downloading 96/962b2b7b35a3ea0b_e7ec8b6e07d62634777dbcb47bd611d3 ( app:/translations/qt_ar.qm )
+2018-09-11T19:27:05.287Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/96"
+2018-09-11T19:27:05.459Z	default	debug	Downloading 99/997871a7bfd0da69_18a3a25cc7bc67272ee18cceacf16b5a ( app:/translations/qtwebengine_locales/ta.pak )
+2018-09-11T19:27:05.459Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/99"
+2018-09-11T19:27:05.518Z	default	debug	Downloading 9b/9b7f803f60873bc1_bc578a536211f7631004ca07cc3ad77d ( app:/translations/qt_ja.qm )
+2018-09-11T19:27:05.518Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/9b"
+2018-09-11T19:27:05.716Z	default	debug	Downloading 9b/9b64f9bdf5f96e87_bb5daf568e7c7f90c4383c10442322bb ( app:/translations/qtwebengine_locales/el.pak )
+2018-09-11T19:27:05.761Z	default	debug	Downloading 9e/9e20aa1e370fedb5_42d3fad216023699f46656c78d9ac498 ( app:/translations/qtwebengine_locales/bg.pak )
+2018-09-11T19:27:05.762Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/9e"
+2018-09-11T19:27:05.767Z	default	debug	Downloading 9e/9eb1688f05ac87e5_4a7a1c3000a0b29060dceee3a9e16021 ( app:/translations/qtwebengine_locales/es-419.pak )
+2018-09-11T19:27:05.918Z	default	debug	Downloading a9/a9baa937972da185_12bbf7f12674fb72022a0e1005349f5d ( app:/translations/qtwebengine_locales/de.pak )
+2018-09-11T19:27:05.918Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/a9"
+2018-09-11T19:27:05.971Z	default	debug	Downloading ac/acb58e821c10e0e3_5a3a9371a7b8aae16e2c7e866130a89e ( app:/translations/qt_bg.qm )
+2018-09-11T19:27:05.971Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/ac"
+2018-09-11T19:27:06.019Z	default	debug	Downloading ae/ae3eb42e51efe3a7_f9b75142be9a01de90719a0fccf947c4 ( app:/translations/qt_hu.qm )
+2018-09-11T19:27:06.019Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/ae"
+2018-09-11T19:27:06.046Z	default	debug	Downloading ae/ae87fbd393d3d28c_482b0da9e8e9c56d0ef4f43539e08e57 ( app:/translations/qtwebengine_locales/bn.pak )
+2018-09-11T19:27:06.110Z	default	debug	Downloading af/af7d254f454abdff_4542e9e333abcd6a0cfd76de1d8943b4 ( app:/zlib1.dll )
+2018-09-11T19:27:06.110Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/af"
+2018-09-11T19:27:06.231Z	default	debug	Downloading b0/b0ace8bfbc5762d8_aafc41b5cf37b43b8888f06d384ae4f5 ( app:/Qt5Quick.dll )
+2018-09-11T19:27:06.231Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/b0"
+2018-09-11T19:27:06.310Z	default	debug	Downloading b0/b09a7d39b52fc2a9_b183fe971035ada2e95401263c79aa3b ( app:/translations/qt_it.qm )
+2018-09-11T19:27:06.331Z	default	debug	Downloading b1/b1ee3429446f416c_10e3e11b4898e2943e7a10484fe79304 ( app:/errorpage/index.html )
+2018-09-11T19:27:06.331Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/b1"
+2018-09-11T19:27:06.379Z	default	debug	Downloading b2/b215071a6257a7d9_7434aa7d1a063dad8714f792607a73a0 ( app:/errorpage/index_zh.html )
+2018-09-11T19:27:06.379Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/b2"
+2018-09-11T19:27:06.409Z	default	debug	Downloading b4/b43a60f7dfaaec0f_b9a5cc3954a40fc0e4f6e79f0db7817b ( app:/imageformats/qico.dll )
+2018-09-11T19:27:06.409Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/b4"
+2018-09-11T19:27:06.479Z	default	debug	Downloading b5/b513ba061aa4c71e_f5b69e04f740f13d83483b1bd476a8c0 ( app:/imageformats/qgif.dll )
+2018-09-11T19:27:06.480Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/b5"
+2018-09-11T19:27:06.681Z	default	debug	Downloading b6/b6263352e97d1d5f_06aab5f750753b97e5815ce8f4204454 ( app:/Qt5QuickWidgets.dll )
+2018-09-11T19:27:06.681Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/b6"
+2018-09-11T19:27:06.749Z	default	debug	Downloading b6/b6e78d384d5399f0_133bc40f0f8a85e478034f87b5e883df ( app:/printsupport/windowsprintersupport.dll )
+2018-09-11T19:27:06.788Z	default	debug	Downloading b6/b6ab4a6eb226b4ce_258cea406b1067b89f5c79eb24e25630 ( app:/resources/qtwebengine_resources_100p.pak )
+2018-09-11T19:27:06.921Z	default	debug	Downloading bc/bc81a35db76882c0_c5c423e0b4df9a2af5129cdcdab9956c ( app:/translations/qtwebengine_locales/th.pak )
+2018-09-11T19:27:06.921Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/bc"
+2018-09-11T19:27:06.948Z	default	debug	Downloading bd/bd9f7a2fc3d7188b_63e63b9033f10a08989a2feff4c14dd8 ( app:/translations/qtwebengine_locales/id.pak )
+2018-09-11T19:27:06.948Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/bd"
+2018-09-11T19:27:07.014Z	default	debug	Downloading be/be6139aa60d7485b_4d593755b49dcacd170c6888e42e9483 ( app:/translations/qtwebengine_locales/it.pak )
+2018-09-11T19:27:07.014Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/be"
+2018-09-11T19:27:07.127Z	default	debug	Downloading bf/bf56e9574166f9fb_6ddb447c5893faeaef4949f9399479f7 ( app:/translations/qtwebengine_locales/sv.pak )
+2018-09-11T19:27:07.127Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/bf"
+2018-09-11T19:27:07.142Z	default	debug	Downloading c3/c30f44aa67370f93_708811e7e7588692fcbae782b3b2426e ( app:/translations/qtwebengine_locales/fa.pak )
+2018-09-11T19:27:07.142Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/c3"
+2018-09-11T19:27:07.180Z	default	debug	Downloading c4/c402045ffa8af6f4_58097abf82a7e2b0922361a23f6e0f51 ( app:/imageformats/qwbmp.dll )
+2018-09-11T19:27:07.180Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/c4"
+2018-09-11T19:27:07.215Z	default	debug	Downloading c7/c7c50f09780de9b0_f659756922671cfc6d43930814b06806 ( app:/translations/qtwebengine_locales/gu.pak )
+2018-09-11T19:27:07.215Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/c7"
+2018-09-11T19:27:07.387Z	default	debug	Downloading cb/cbf24ec433ba12e2_4776f2a44ce52bd98c10a66dc4ccfba2 ( app:/position/qtposition_positionpoll.dll )
+2018-09-11T19:27:07.387Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/cb"
+2018-09-11T19:27:07.481Z	default	debug	Downloading ce/ce99e040efc47a2e_e5a138da7a941677410e82d848deafa2 ( app:/libEGL.dll )
+2018-09-11T19:27:07.482Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/ce"
+2018-09-11T19:27:07.556Z	default	debug	Downloading ce/ce324a58010932e4_6216d0861ff41c8fed3b5a34a45df0a0 ( app:/translations/qt_es.qm )
+2018-09-11T19:27:07.635Z	default	debug	Downloading d2/d217390f9a2814d2_5853b11701befb45fa2961886dd68294 ( app:/translations/qt_lv.qm )
+2018-09-11T19:27:07.635Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/d2"
+2018-09-11T19:27:07.738Z	default	debug	Downloading d2/d2fe73a9cb6d86ea_67f270b3768d7c42c5d6ce91a31ab61b ( app:/translations/qtwebengine_locales/am.pak )
+2018-09-11T19:27:07.757Z	default	debug	Downloading d3/d3ac30f058e7369f_829bf35c22256ceefbce1145c64ef361 ( app:/translations/qtwebengine_locales/ml.pak )
+2018-09-11T19:27:07.757Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/d3"
+2018-09-11T19:27:07.773Z	default	debug	Downloading d6/d612a5691ee31adb_fd5046c815bc3e89fb327044a29236e4 ( app:/translations/qt_gd.qm )
+2018-09-11T19:27:07.773Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/d6"
+2018-09-11T19:27:07.862Z	default	debug	Downloading da/da5968d51a5f7b3c_d2592e6bf6f563af4cc24ca54b13a433 ( app:/Qt5WebEngineWidgets.dll )
+2018-09-11T19:27:07.862Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/da"
+2018-09-11T19:27:07.890Z	default	debug	Downloading dc/dc58ef0464ac3ea1_f731bc1aada96bc0e082f30155623876 ( app:/translations/qtwebengine_locales/pt-BR.pak )
+2018-09-11T19:27:07.890Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/dc"
+2018-09-11T19:27:07.924Z	default	debug	Downloading dc/dc00b36f44301a06_05bd0f98d69b1430a9318df0d538a4c2 ( app:/translations/qtwebengine_locales/sk.pak )
+2018-09-11T19:27:07.989Z	default	debug	Downloading e0/e0de81636d3d3180_0987387f242e8948dee56a447f0a64ba ( app:/translations/qt_fr.qm )
+2018-09-11T19:27:07.989Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/e0"
+2018-09-11T19:27:08.044Z	default	debug	Downloading e2/e293226614d1eb90_dc9ba38bfd891a33e7a7de87d3a4b691 ( app:/translations/qtwebengine_locales/pl.pak )
+2018-09-11T19:27:08.044Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/e2"
+2018-09-11T19:27:08.177Z	default	debug	Downloading e5/e53e5ca19290f295_65f7a8a5c16b3ded9be5c9c764869477 ( app:/imageformats/qicns.dll )
+2018-09-11T19:27:08.178Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/e5"
+2018-09-11T19:27:08.179Z	default	debug	Downloading e7/e75e867e6d8356af_e2a4689cc0ba063ea5a19995e4619516 ( app:/resources/qtwebengine_resources_200p.pak )
+2018-09-11T19:27:08.179Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/e7"
+2018-09-11T19:27:08.204Z	default	debug	Downloading e8/e8e13e07cc4303b7_720dde330a882659565c4808dfebb3db ( app:/Qt5WebSockets.dll )
+2018-09-11T19:27:08.204Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/e8"
+2018-09-11T19:27:08.420Z	default	debug	Downloading ea/eaa500f25801a126_b79ec7c4896f5821db20e6657c179131 ( app:/imageformats/qwebp.dll )
+2018-09-11T19:27:08.420Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/ea"
+2018-09-11T19:27:08.724Z	default	debug	Downloading eb/ebe073df7d8d9f87_28740b3472b476403b7663e00cfe132b ( app:/evelauncher_ja.qm )
+2018-09-11T19:27:08.724Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/eb"
+2018-09-11T19:27:08.834Z	default	debug	Downloading eb/eb3dccd936661911_4e8a8af0b08e4f5ce98b8598d2cd81ed ( app:/translations/qtwebengine_locales/ar.pak )
+2018-09-11T19:27:08.899Z	default	debug	Downloading ed/ed65ff1a3dd2030b_a76da0a0f1a03b3ea8a0e754ba0f9e33 ( app:/evelauncher_ru.qm )
+2018-09-11T19:27:08.899Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/ed"
+2018-09-11T19:27:08.972Z	default	debug	Downloading f1/f1e5c3d130256ce0_23c2872b3374a3c363da628ad5760875 ( app:/iconengines/qsvgicon.dll )
+2018-09-11T19:27:08.972Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/f1"
+2018-09-11T19:27:09.185Z	default	debug	Downloading f1/f170b618192df1d5_2feaabd39da67692e7c3a2d558a4f6dc ( app:/translations/qtwebengine_locales/pt-PT.pak )
+2018-09-11T19:27:09.412Z	default	debug	Downloading f1/f1635b817fc8c38c_7787362683ce8efafb4af32bc5fcce30 ( app:/updater.exe )
+2018-09-11T19:27:09.858Z	default	debug	Downloading f2/f2681a5c6189c39c_9362b4bc8faf391fefded74c6292cff8 ( app:/evelauncher_zh.qm )
+2018-09-11T19:27:09.858Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/f2"
+2018-09-11T19:27:09.911Z	default	debug	Downloading f2/f28b717044c74e86_96c0173b467bf4664df0e8a11cea30cc ( app:/vccorlib140.dll )
+2018-09-11T19:27:10.140Z	default	debug	Downloading f3/f3b3b0aec5e1411d_6229eddbaf2a1dd044b5a64c8316f81b ( app:/translations/qtwebengine_locales/ro.pak )
+2018-09-11T19:27:10.140Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/f3"
+2018-09-11T19:27:10.301Z	default	debug	Downloading f7/f75bde04deaba1a2_fa37dcdf4827da5016f28597bb069d15 ( app:/translations/qt_sk.qm )
+2018-09-11T19:27:10.301Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/f7"
+2018-09-11T19:27:10.354Z	default	debug	Downloading f7/f7fd68116b4e159c_50f9d7278477fd28afe248cd45f4bfc3 ( app:/translations/qtwebengine_locales/zh-TW.pak )
+2018-09-11T19:27:10.465Z	default	debug	Downloading f8/f8da0116b35dc519_a59d8a65d0b77ca19fa4898fb8514e70 ( app:/translations/qtwebengine_locales/da.pak )
+2018-09-11T19:27:10.465Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/f8"
+2018-09-11T19:27:10.657Z	default	debug	Downloading f8/f86d6135bfde7d1f_4010817d91b97fb9903844a787011f58 ( app:/translations/qtwebengine_locales/sr.pak )
+2018-09-11T19:27:10.692Z	default	debug	Downloading fd/fd739d654c864a6d_5bd7d36f55a83cd551245d7974b6314f ( app:/translations/qtwebengine_locales/mr.pak )
+2018-09-11T19:27:10.692Z	default	debug	Directory does not exist - creating "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache/ResFiles/fd"
+2018-09-11T19:27:28.344Z	download	debug	Downloaded 144 files ( 163.09MB )
+2018-09-11T19:27:28.344Z	default	debug	No patches requested
+2018-09-11T19:27:28.345Z	default	debug	Download finished for  1380309
+2018-09-11T19:27:58.346Z	default	debug	Copying updater from "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache//ResFiles/f1/f1635b817fc8c38c_7787362683ce8efafb4af32bc5fcce30" to "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache//updater.exe"
+2018-09-11T19:27:58.352Z	default	debug	Running updater from "C:/Program Files (x86)/Steam/steamapps/common/Eve Online/SharedCache//updater.exe"
+2018-09-11T19:27:58.354Z	default	debug	Updater does not need elevated access
+2018-09-11T19:27:59.426Z	default	debug	Auto update successfully initiated
+2018-09-11T19:27:59.427Z	default	debug	Finished task "Downloader for self update"
+2018-09-11T19:27:59.427Z	default	debug	Exiting application for self update
+2018-09-11T19:27:59.427Z	default	debug	EVE Launcher closing, 0 client(s) still running
+2018-09-11T19:28:00.279Z	default	debug	Destroying WebGui
+2018-09-11T19:28:00.329Z	default	debug	CustomWebPage destructor done

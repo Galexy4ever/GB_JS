@@ -1,0 +1,47 @@
+00:00:00.043835 main     VirtualBox COM Server 6.0.24 r139119 win.amd64 (Jul  9 2020 19:37:22) release log
+00:00:00.043844 main     Log opened 2021-02-21T10:08:10.270612800Z
+00:00:00.043847 main     Build Type: release
+00:00:00.043880 main     OS Product: Windows 10
+00:00:00.043885 main     OS Release: 10.0.14393
+00:00:00.043887 main     OS Service Pack: 
+00:00:00.101324 main     DMI Product Name: HP Pavilion dv6 Notebook PC
+00:00:00.113167 main     DMI Product Version: 0593110000204710000610100
+00:00:00.113179 main     Host RAM: 6091MB (5.9GB) total, 1890MB available
+00:00:00.113188 main     Executable: E:\FRONTEND\VBoxSVC.exe
+00:00:00.113189 main     Process ID: 6712
+00:00:00.113190 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.355496          VirtualBox: object creation starts
+00:00:00.357466          Home directory: 'C:\Users\User\.VirtualBox'
+00:00:00.358652          Installed Drivers:
+00:00:00.372525            C:\Windows\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.0.24.39119)
+00:00:00.375285            C:\Windows\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.0.24.39119)
+00:00:00.378104            C:\Windows\system32\DRIVERS\VBoxDrv.sys (Version: 6.0.24.39119)
+00:00:00.382134            C:\Windows\system32\DRIVERS\VBoxNetAdp6.sys (Version: 6.0.24.39119)
+00:00:00.632123          Getting USB descriptor (id 0) failed with error 31
+00:00:00.776632          HostDnsMonitor: initializing
+00:00:00.797503          HostDnsMonitor: updating information
+00:00:00.798537          HostDnsMonitor: old information
+00:00:00.798539            no server entries
+00:00:00.798540            no domain set
+00:00:00.798541            no search string entries
+00:00:00.798542          HostDnsMonitor: new information
+00:00:00.798542            server 1: 192.168.0.2
+00:00:00.798543            server 2: 192.168.0.6
+00:00:00.798543            server 3: 192.168.1.1
+00:00:00.798544            domain: bleskservis.ru
+00:00:00.798545            no search string entries
+00:00:00.881594          SUPR0QueryVTCaps -> VERR_VMX_MSR_ALL_VMX_DISABLED
+00:00:00.915647          VD: VDInit finished with VINF_SUCCESS
+00:00:00.941481          VirtualBox: object created
+00:00:12.522072          Saving settings file "C:\Users\User\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:12.600497          Saving settings file "C:\Users\User\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:16.219066          Saving settings file "C:\Users\User\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:16.233699          Saving settings file "C:\Users\User\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:16.276553          Saving settings file "C:\Users\User\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:16.288480          Saving settings file "C:\Users\User\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:16.302051          Saving settings file "C:\Users\User\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:21.898464 main     VirtualBox: object deletion starts
+00:00:21.900299 main     HostDnsMonitor: shutting down ...
+00:00:21.900512 main     HostDnsMonitor: shut down
+00:00:21.905100 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:21.939424 main     VirtualBox: object deleted

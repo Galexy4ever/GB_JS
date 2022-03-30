@@ -1,0 +1,15 @@
+I 2022-03-21 19:00:07.992845 [Main] {Main} Logging started for Battle.net build 2.10.3.13369
+I 2022-03-21 19:00:07.993315 [Configuration] {Main} SharedConfigRoot: C:\ProgramData\Battle.net
+I 2022-03-21 19:00:07.993795 [Configuration] {Main} RoamingConfigRoot: C:\Users\User\AppData\Roaming\Battle.net
+I 2022-03-21 19:00:07.993818 [Configuration] {Main} LocalConfigRoot: C:\Users\User\AppData\Local\Battle.net
+D 2022-03-21 19:00:07.993975 [Configuration] {Main} Searching for config file: E:\Games\warzone\Battle.net\Battle.net.13369\Battle.net.config
+D 2022-03-21 19:00:07.994052 [Configuration] {Main} Searching for config file: E:\Games\warzone\Battle.net\Battle.net.config
+D 2022-03-21 19:00:07.994668 [Configuration] {Main} User Configuration File: C:\Users\User\AppData\Roaming\Battle.net\Battle.net.config
+I 2022-03-21 19:00:07.996912 [Main] {Main} Command line arguments: {[0]=--game=s2_ruru, [1]=--gamepath=E:\Games\Call of Duty\StarCraft II}
+I 2022-03-21 19:00:07.998899 [Main] {Main} Opening IPC shared memory. queueName=User:User:Battle.net IPC ShMem mode=client
+I 2022-03-21 19:00:07.999171 [CommandQueue] {Main} Dispatching Command: register s2_ruru E:\Games\Call of Duty\StarCraft II   false
+I 2022-03-21 19:00:07.999259 [Main] {Main} Leaving because another instance of battle.net is running
+D 2022-03-21 19:00:07.999282 [Main] {Main} Shutting down Backend
+D 2022-03-21 19:00:07.999311 [Main] {Main} Closing IPC Service
+D 2022-03-21 19:00:07.999326 [CommandQueue] {Main} IPCService is shutting down
+D 2022-03-21 19:00:07.999384 [Main] {Main} Shutting down callback queue

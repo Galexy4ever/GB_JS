@@ -1,0 +1,23 @@
+{
+	"AutoLaunchGDA":	true,
+	"FeatureFlags":	"{}",
+	"GoProStudioInstalled":	false,
+	"FirstRun":	false,
+	"AppVersion":	"2.7.0.945",
+	"GoProUserAgentString":	"GoPro Desktop App/2.7.0.945 (Win \u001c09:@>A>DB Windows 10 \u001a>@?>@0B82=0O 2016 A 4>;3>A@>G=K< >1A;C6820=85< 10.0.14393; Hewlett-Packard HP Pavilion dv6 Notebook PC;       Intel(R) Core(TM) i7-2670QM CPU @ 2.20GHz)",
+	"UseHardwareAcceleration":	true,
+	"AutoPlayVideos":	false,
+	"AutoSyncCameraDateTime":	true,
+	"UploadToCloudOnBattery":	false,
+	"AllowSendAnalytics":	false,
+	"AllowSendAnalyticsDate":	0,
+	"OffloadDirectoryURI":	"C:\\Users\\User\\Pictures\\GoPro",
+	"ResetQdaOnNextLaunch":	false,
+	"GoProPlusCountryList":	"AD;AE;AF;AG;AI;AM;AQ;AR;AS;AT;AU;AW;AX;BA;BB;BE;BG;BH;BM;BN;BO;BQ;BR;BS;BT;BW;BY;BZ;CA;CC;CH;CK;CL;CO;CR;CW;CX;CY;CZ;DE;DJ;DK;DM;DO;EC;EE;EG;ER;ES;ET;FI;FJ;FK;FM;FO;FR;GB;GD;GE;GF;GG;GI;GL;GP;GR;GS;GT;GU;GY;HK;HM;HN;HR;HT;HU;IE;IL;IM;IN;IS;IT;JE;JM;JO;JP;KE;KH;KI;KN;KR;KW;KY;LA;LB;LC;LI;LK;LT;LU;LV;MC;MD;ME;MF;MK;MN;MO;MP;MQ;MS;MT;MU;MV;MX;MZ;NA;NC;NF;NI;NL;NO;NP;NZ;OM;PA;PE;PF;PG;PH;PK;PL;PR;PS;PT;PW;PY;QA;RE;RO;RS;SA;SB;SC;SE;SG;SI;SJ;SK;SM;SR;SV;SX;TC;TF;TH;TL;TM;TN;TO;TR;TT;TV;TW;TZ;UA;UG;UM;US;UY;VA;VC;VE;VG;VI;VN;VU;WS;YE;ZA;ZW",
+	"LastFirmwareCatalogCheckTime":	"2021-07-07T07:46:29.918713Z",
+	"ShowCreateAccountEmailNotification":	false,
+	"AutoDownloadUpdates":	true,
+	"LaunchCounter":	2,
+	"LocalStorageDomain_ALERT_CARD_LAST_VIEWED":	"1625644065",
+	"LastMusicCatalogCheckTime":	"2021-07-07T08:10:52.492244Z"
+}

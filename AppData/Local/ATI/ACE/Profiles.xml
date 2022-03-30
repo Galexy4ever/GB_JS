@@ -1,0 +1,466 @@
+<Profile>
+  <Caste name="Graphics">
+    <Feature name="DisplayDetection">
+      <Property name="DisplayDetection_Control" value="Manual" />
+    </Feature>
+    <Feature name="PxLinkMethod" />
+    <Adapter name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A">
+      <Feature name="SplitDisplay" />
+      <Aspect name="Radeon3D">
+        <Feature name="Main3D">
+          <Property name="Main3D" value="Balanced">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+        </Feature>
+        <Feature name="AntiAlias">
+          <Property name="AntiAlias" value="App">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+          <Property name="AntiAliasSamples" value="0">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+        </Feature>
+        <Feature name="AnisoType">
+          <Property name="AnisoType" value="App">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+          <Property name="AnisoDegree" value="0">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+          <Property name="AreaAniso" value="Disable">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+        </Feature>
+        <Feature name="VSyncControl">
+          <Property name="VSyncControl" value="AppPerformance">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+        </Feature>
+        <Feature name="EnableTripleBuffering">
+          <Property name="EnableTripleBuffering" value="Disable">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+        </Feature>
+        <Feature name="CatalystAI">
+          <Property name="CatalystAI" value="Enable">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+        </Feature>
+        <Feature name="AAF">
+          <Property name="AAF" value="0">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+        </Feature>
+        <Feature name="ASE">
+          <Property name="ASTT" value="Disable">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+          <Property name="ASD" value="Disabled">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+          <Property name="ASE" value="MS">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+        </Feature>
+        <Feature name="MLF">
+          <Property name="MLF" value="Disable">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+        </Feature>
+        <Feature name="SurfaceFormatReplacements">
+          <Property name="SurfaceFormatReplacements" value="Disable">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+        </Feature>
+        <Feature name="TFQ">
+          <Property name="TFQ" value="Quality">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+        </Feature>
+        <Feature name="Tessellation">
+          <Property name="Tessellation_AMDOptimize" value="Enable">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+          <Property name="Tessellation_UseAppSettings" value="Disable">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+          <Property name="Tessellation" value="64">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+        </Feature>
+      </Aspect>
+      <Aspect name="MMVideo">
+        <Feature name="MainVideo">
+          <Property name="MainVideo" value="0">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+        </Feature>
+        <Feature name="VideoVision">
+          <Property name="VideoVision_brightness" value="0">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+          <Property name="VideoVision_contrast" value="1">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+          <Property name="VideoVision_saturation" value="1">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+          <Property name="VideoVision_hue" value="0">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+          <Property name="VideoVision_appdecide" value="True">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+        </Feature>
+        <Feature name="OverridePA">
+          <Property name="OverridePA" value="True">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+        </Feature>
+        <Feature name="BlueStretch">
+          <Property name="BlueStretch" value="True">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+        </Feature>
+        <Feature name="FleshTone">
+          <Property name="FleshTone_FleshTone" value="50">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+          <Property name="FleshTone_EnableFleshTone" value="False">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+        </Feature>
+        <Feature name="StaticGamma">
+          <Property name="StaticGamma_StaticGamma" value="100">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+          <Property name="StaticGamma_EnableStaticGamma" value="False">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+        </Feature>
+        <Feature name="DynamicRange">
+          <Property name="DynamicRange_DynamicRange" value="0">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+          <Property name="DynamicRange_EnableDynamicRange" value="False">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+        </Feature>
+        <Feature name="InternetVideo">
+          <Property name="InternetVideo" value="False">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+        </Feature>
+        <Feature name="EdgeEnhancement">
+          <Property name="EdgeEnhancement" value="FeatureName=EdgeEnhancement&#xD;&#xA;BCurrent=False&#xD;&#xA;ICurrent=0&#xD;&#xA;FCurrent=0&#xD;&#xA;EnumStates=0&#xD;&#xA;">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+        </Feature>
+        <Feature name="EEStrength">
+          <Property name="EEStrength" value="FeatureName=EEStrength&#xD;&#xA;BCurrent=True&#xD;&#xA;ICurrent=0&#xD;&#xA;FCurrent=10&#xD;&#xA;EnumStates=0&#xD;&#xA;">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+        </Feature>
+        <Feature name="DeNoise">
+          <Property name="DeNoise" value="FeatureName=DeNoise&#xD;&#xA;BCurrent=False&#xD;&#xA;ICurrent=0&#xD;&#xA;FCurrent=0&#xD;&#xA;EnumStates=0&#xD;&#xA;">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+        </Feature>
+        <Feature name="DNStrength">
+          <Property name="DNStrength" value="FeatureName=DNStrength&#xD;&#xA;BCurrent=True&#xD;&#xA;ICurrent=0&#xD;&#xA;FCurrent=64&#xD;&#xA;EnumStates=0&#xD;&#xA;">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+        </Feature>
+        <Feature name="MosquitoNoise">
+          <Property name="MosquitoNoise" value="FeatureName=MosquitoNoise&#xD;&#xA;BCurrent=False&#xD;&#xA;ICurrent=0&#xD;&#xA;FCurrent=0&#xD;&#xA;EnumStates=0&#xD;&#xA;">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+        </Feature>
+        <Feature name="MNRStrength">
+          <Property name="MNRStrength" value="FeatureName=MNRStrength&#xD;&#xA;BCurrent=True&#xD;&#xA;ICurrent=0&#xD;&#xA;FCurrent=50&#xD;&#xA;EnumStates=0&#xD;&#xA;">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+        </Feature>
+        <Feature name="DeBlocking">
+          <Property name="DeBlocking" value="FeatureName=DeBlocking&#xD;&#xA;BCurrent=False&#xD;&#xA;ICurrent=0&#xD;&#xA;FCurrent=0&#xD;&#xA;EnumStates=0&#xD;&#xA;">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+        </Feature>
+        <Feature name="DBStrength">
+          <Property name="DBStrength" value="FeatureName=DBStrength&#xD;&#xA;BCurrent=True&#xD;&#xA;ICurrent=0&#xD;&#xA;FCurrent=50&#xD;&#xA;EnumStates=0&#xD;&#xA;">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+        </Feature>
+        <Feature name="DynamicContrast">
+          <Property name="DynamicContrast" value="FeatureName=DynamicContrast&#xD;&#xA;BCurrent=False&#xD;&#xA;ICurrent=0&#xD;&#xA;FCurrent=0&#xD;&#xA;EnumStates=0&#xD;&#xA;">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+        </Feature>
+        <Feature name="DeintAutoDetect">
+          <Property name="DeintAutoDetect" value="FeatureName=DeintAutoDetect&#xD;&#xA;BCurrent=True&#xD;&#xA;ICurrent=0&#xD;&#xA;FCurrent=1&#xD;&#xA;EnumStates=0&#xD;&#xA;">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+        </Feature>
+        <Feature name="DeintMethod">
+          <Property name="DeintMethod" value="FeatureName=DeintMethod&#xD;&#xA;BCurrent=False&#xD;&#xA;ICurrent=0&#xD;&#xA;FCurrent=0&#xD;&#xA;EnumStates=16&#xD;&#xA;">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+        </Feature>
+        <Feature name="DeintPullDown">
+          <Property name="DeintPullDown" value="FeatureName=DeintPullDown&#xD;&#xA;BCurrent=True&#xD;&#xA;ICurrent=0&#xD;&#xA;FCurrent=1&#xD;&#xA;EnumStates=0&#xD;&#xA;">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+        </Feature>
+        <Feature name="VQOnDX11">
+          <Property name="VQOnDX11" value="FeatureName=VQOnDX11&#xD;&#xA;BCurrent=False&#xD;&#xA;ICurrent=0&#xD;&#xA;FCurrent=0&#xD;&#xA;EnumStates=0&#xD;&#xA;">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+        </Feature>
+        <Feature name="ColorVibrance">
+          <Property name="ColorVibrance" value="FeatureName=ColorVibrance&#xD;&#xA;BCurrent=True&#xD;&#xA;ICurrent=0&#xD;&#xA;FCurrent=1&#xD;&#xA;EnumStates=0&#xD;&#xA;">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+        </Feature>
+        <Feature name="CVStrength">
+          <Property name="CVStrength" value="FeatureName=CVStrength&#xD;&#xA;BCurrent=True&#xD;&#xA;ICurrent=0&#xD;&#xA;FCurrent=40&#xD;&#xA;EnumStates=0&#xD;&#xA;">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A" />
+          </Property>
+        </Feature>
+      </Aspect>
+      <Aspect name="PowerXpress" />
+    </Adapter>
+    <Adapter name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10&amp;02A">
+      <Feature name="SplitDisplay" />
+      <Aspect name="Radeon3D">
+        <Feature name="Main3D">
+          <Property name="Main3D" value="Balanced">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+        </Feature>
+        <Feature name="AntiAlias">
+          <Property name="AntiAlias" value="App">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+          <Property name="AntiAliasSamples" value="0">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+        </Feature>
+        <Feature name="AnisoType">
+          <Property name="AnisoType" value="App">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+          <Property name="AnisoDegree" value="0">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+          <Property name="AreaAniso" value="Disable">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+        </Feature>
+        <Feature name="VSyncControl">
+          <Property name="VSyncControl" value="AppPerformance">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+        </Feature>
+        <Feature name="EnableTripleBuffering">
+          <Property name="EnableTripleBuffering" value="Disable">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+        </Feature>
+        <Feature name="CatalystAI">
+          <Property name="CatalystAI" value="Enable">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+        </Feature>
+        <Feature name="AAF">
+          <Property name="AAF" value="0">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+        </Feature>
+        <Feature name="ASE">
+          <Property name="ASTT" value="Disable">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+          <Property name="ASD" value="Disabled">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+          <Property name="ASE" value="MS">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+        </Feature>
+        <Feature name="MLF">
+          <Property name="MLF" value="Disable">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+        </Feature>
+        <Feature name="SurfaceFormatReplacements">
+          <Property name="SurfaceFormatReplacements" value="Disable">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+        </Feature>
+        <Feature name="TFQ">
+          <Property name="TFQ" value="Quality">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+        </Feature>
+        <Feature name="Tessellation">
+          <Property name="Tessellation_AMDOptimize" value="Enable">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+          <Property name="Tessellation_UseAppSettings" value="Disable">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+          <Property name="Tessellation" value="64">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+        </Feature>
+      </Aspect>
+      <Aspect name="MMVideo">
+        <Feature name="MainVideo">
+          <Property name="MainVideo" value="0">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+        </Feature>
+        <Feature name="VideoVision">
+          <Property name="VideoVision_brightness" value="0">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+          <Property name="VideoVision_contrast" value="1">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+          <Property name="VideoVision_saturation" value="1">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+          <Property name="VideoVision_hue" value="0">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+          <Property name="VideoVision_appdecide" value="True">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+        </Feature>
+        <Feature name="OverridePA">
+          <Property name="OverridePA" value="True">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+        </Feature>
+        <Feature name="BlueStretch">
+          <Property name="BlueStretch" value="True">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+        </Feature>
+        <Feature name="FleshTone">
+          <Property name="FleshTone_FleshTone" value="50">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+          <Property name="FleshTone_EnableFleshTone" value="False">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+        </Feature>
+        <Feature name="StaticGamma">
+          <Property name="StaticGamma_StaticGamma" value="100">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+          <Property name="StaticGamma_EnableStaticGamma" value="False">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+        </Feature>
+        <Feature name="DynamicRange">
+          <Property name="DynamicRange_DynamicRange" value="0">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+          <Property name="DynamicRange_EnableDynamicRange" value="False">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+        </Feature>
+        <Feature name="InternetVideo">
+          <Property name="InternetVideo" value="False">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+        </Feature>
+        <Feature name="EdgeEnhancement">
+          <Property name="EdgeEnhancement" value="FeatureName=EdgeEnhancement&#xD;&#xA;BCurrent=False&#xD;&#xA;ICurrent=0&#xD;&#xA;FCurrent=0&#xD;&#xA;EnumStates=0&#xD;&#xA;">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+        </Feature>
+        <Feature name="EEStrength">
+          <Property name="EEStrength" value="FeatureName=EEStrength&#xD;&#xA;BCurrent=True&#xD;&#xA;ICurrent=0&#xD;&#xA;FCurrent=10&#xD;&#xA;EnumStates=0&#xD;&#xA;">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+        </Feature>
+        <Feature name="DeNoise">
+          <Property name="DeNoise" value="FeatureName=DeNoise&#xD;&#xA;BCurrent=False&#xD;&#xA;ICurrent=0&#xD;&#xA;FCurrent=0&#xD;&#xA;EnumStates=0&#xD;&#xA;">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+        </Feature>
+        <Feature name="DNStrength">
+          <Property name="DNStrength" value="FeatureName=DNStrength&#xD;&#xA;BCurrent=True&#xD;&#xA;ICurrent=0&#xD;&#xA;FCurrent=64&#xD;&#xA;EnumStates=0&#xD;&#xA;">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+        </Feature>
+        <Feature name="MosquitoNoise">
+          <Property name="MosquitoNoise" value="FeatureName=MosquitoNoise&#xD;&#xA;BCurrent=False&#xD;&#xA;ICurrent=0&#xD;&#xA;FCurrent=0&#xD;&#xA;EnumStates=0&#xD;&#xA;">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+        </Feature>
+        <Feature name="MNRStrength">
+          <Property name="MNRStrength" value="FeatureName=MNRStrength&#xD;&#xA;BCurrent=True&#xD;&#xA;ICurrent=0&#xD;&#xA;FCurrent=50&#xD;&#xA;EnumStates=0&#xD;&#xA;">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+        </Feature>
+        <Feature name="DeBlocking">
+          <Property name="DeBlocking" value="FeatureName=DeBlocking&#xD;&#xA;BCurrent=False&#xD;&#xA;ICurrent=0&#xD;&#xA;FCurrent=0&#xD;&#xA;EnumStates=0&#xD;&#xA;">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+        </Feature>
+        <Feature name="DBStrength">
+          <Property name="DBStrength" value="FeatureName=DBStrength&#xD;&#xA;BCurrent=True&#xD;&#xA;ICurrent=0&#xD;&#xA;FCurrent=50&#xD;&#xA;EnumStates=0&#xD;&#xA;">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+        </Feature>
+        <Feature name="DynamicContrast">
+          <Property name="DynamicContrast" value="FeatureName=DynamicContrast&#xD;&#xA;BCurrent=False&#xD;&#xA;ICurrent=0&#xD;&#xA;FCurrent=0&#xD;&#xA;EnumStates=0&#xD;&#xA;">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+        </Feature>
+        <Feature name="DeintAutoDetect">
+          <Property name="DeintAutoDetect" value="FeatureName=DeintAutoDetect&#xD;&#xA;BCurrent=True&#xD;&#xA;ICurrent=0&#xD;&#xA;FCurrent=1&#xD;&#xA;EnumStates=0&#xD;&#xA;">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+        </Feature>
+        <Feature name="DeintMethod">
+          <Property name="DeintMethod" value="FeatureName=DeintMethod&#xD;&#xA;BCurrent=False&#xD;&#xA;ICurrent=0&#xD;&#xA;FCurrent=0&#xD;&#xA;EnumStates=16&#xD;&#xA;">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+        </Feature>
+        <Feature name="DeintPullDown">
+          <Property name="DeintPullDown" value="FeatureName=DeintPullDown&#xD;&#xA;BCurrent=True&#xD;&#xA;ICurrent=0&#xD;&#xA;FCurrent=1&#xD;&#xA;EnumStates=0&#xD;&#xA;">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+        </Feature>
+        <Feature name="VQOnDX11">
+          <Property name="VQOnDX11" value="FeatureName=VQOnDX11&#xD;&#xA;BCurrent=False&#xD;&#xA;ICurrent=0&#xD;&#xA;FCurrent=0&#xD;&#xA;EnumStates=0&#xD;&#xA;">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+        </Feature>
+        <Feature name="ColorVibrance">
+          <Property name="ColorVibrance" value="FeatureName=ColorVibrance&#xD;&#xA;BCurrent=True&#xD;&#xA;ICurrent=0&#xD;&#xA;FCurrent=1&#xD;&#xA;EnumStates=0&#xD;&#xA;">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+        </Feature>
+        <Feature name="CVStrength">
+          <Property name="CVStrength" value="FeatureName=CVStrength&#xD;&#xA;BCurrent=True&#xD;&#xA;ICurrent=0&#xD;&#xA;FCurrent=40&#xD;&#xA;EnumStates=0&#xD;&#xA;">
+            <Cousin name="PCI_VEN_8086&amp;DEV_0116&amp;SUBSYS_3388103C&amp;REV_09_3&amp;11583659&amp;0&amp;10A" />
+          </Property>
+        </Feature>
+      </Aspect>
+      <Aspect name="PowerXpress" />
+    </Adapter>
+    <Groups />
+  </Caste>
+  <Caste name="Fuel">
+    <Groups />
+  </Caste>
+  <Caste name="Platform">
+    <Adapter name="PlatformAdapterUDID" />
+    <Groups />
+  </Caste>
+</Profile>

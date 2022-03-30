@@ -1,0 +1,9 @@
+[user]
+	email = mctasb@yandex.ru
+	name = Galexy4ever
+[core]
+	longpaths = true
+[color]
+	ui = auto
+[gui]
+	recentrepo = C:/Users/User/GB_JS

@@ -1,0 +1,2 @@
+[0324/212831.015:ERROR:command_buffer_proxy_impl.cc(122)] ContextResult::kTransientFailure: Failed to send GpuChannelMsg_CreateCommandBuffer.
+[0325/000532.620:INFO:cef_logging.h(628)] BNET, sending query, close window

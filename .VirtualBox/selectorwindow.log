@@ -1,0 +1,16 @@
+00:00:03.677471 VirtualBox GUI VM Selector Window 6.0.24 r139119 win.amd64 (Jul  9 2020 19:37:22) release log
+00:00:03.677479 Log opened 2021-02-21T10:08:11.641096100Z
+00:00:03.677481 Build Type: release
+00:00:03.677493 OS Product: Windows 10
+00:00:03.677498 OS Release: 10.0.14393
+00:00:03.677502 OS Service Pack: 
+00:00:03.711769 DMI Product Name: HP Pavilion dv6 Notebook PC
+00:00:03.726061 DMI Product Version: 0593110000204710000610100
+00:00:03.726089 Host RAM: 6091MB (5.9GB) total, 1889MB available
+00:00:03.726120 Executable: E:\FRONTEND\VirtualBox.exe
+00:00:03.726123 Process ID: 1604
+00:00:03.726124 Package type: WINDOWS_64BITS_GENERIC
+00:00:03.726525 Qt version: 5.6.2
+00:00:04.518048 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:04.518132 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:10.157097 refreshCertificates/#3: Found 1/80 SSL certs we/you trust (previously 0/0).

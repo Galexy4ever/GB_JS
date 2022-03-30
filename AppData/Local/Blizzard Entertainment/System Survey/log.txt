@@ -1,0 +1,27 @@
+[2021-02-12T19:31:43Z][..\source\main.cpp:475][INFO]: System Survey 2.4.1.48, Data Version 3, Git Revision v2.4.0.47-7-g0e76705e, Copyright (C) 2013 Blizzard Entertainment. All rights reserved.
+[2021-02-12T19:31:43Z][..\source\main.cpp:488][INFO]: Generating report...
+[2021-02-12T19:31:43Z][..\source\report.cpp:420][INFO]: sysinfo_get_system_product_info(system): successful
+[2021-02-12T19:31:43Z][..\source\report.cpp:421][INFO]: sysinfo_get_system_has_battery(system): successful
+[2021-02-12T19:31:43Z][..\source\report.cpp:422][INFO]: sysinfo_get_physical_memory(system): successful
+[2021-02-12T19:31:43Z][..\source\report.cpp:423][INFO]: sysinfo_get_bios_info(system): successful
+[2021-02-12T19:31:43Z][..\source\report.cpp:426][INFO]: sysinfo_get_vm_info(system): successful
+[2021-02-12T19:31:43Z][..\source\report.cpp:429][INFO]: sysinfo_get_os_info(system): successful
+[2021-02-12T19:31:43Z][..\source\report.cpp:432][INFO]: sysinfo_get_cpu_info(system): successful
+[2021-02-12T19:31:43Z][..\source\report.cpp:435][INFO]: sysinfo_get_video_adapters(system): successful
+[2021-02-12T19:31:44Z][..\source\sysinfo\win\audio_win.cpp:642][ERROR]: pDevice->Activate(__uuidof(IAudioEndpointVolume), CLSCTX_ALL, nullptr, (void**)&pEndpointVolume): failed
+[2021-02-12T19:31:44Z][..\source\sysinfo\win\audio_win.cpp:642][ERROR]: HRESULT 0x80070002 (-2147024894): Не удается найти указанный файл.
+[2021-02-12T19:31:44Z][..\source\report.cpp:438][INFO]: sysinfo_get_audio_devices(system): successful
+[2021-02-12T19:31:44Z][..\source\sysinfo\win\hid_win.cpp:272][ERROR]: HidD_GetManufacturerStringFunc(deviceObject, manufacturerWSTR, sizeof(manufacturerWSTR)): failed
+[2021-02-12T19:31:44Z][..\source\sysinfo\win\hid_win.cpp:272][ERROR]: HidD_GetManufacturerStringFunc(deviceObject, manufacturerWSTR, sizeof(manufacturerWSTR)): failed
+[2021-02-12T19:31:44Z][..\source\sysinfo\win\hid_win.cpp:280][ERROR]: HidD_GetProductStringFunc(deviceObject, productWSTR, sizeof(productWSTR)): failed
+[2021-02-12T19:31:44Z][..\source\report.cpp:441][INFO]: sysinfo_get_input_devices(system): successful
+[2021-02-12T19:31:44Z][..\source\report.cpp:444][INFO]: sysinfo_get_storage_devices(system): successful
+[2021-02-12T19:31:44Z][..\source\report.cpp:447][INFO]: sysinfo_get_bluetooth_radios(system): successful
+[2021-02-12T19:31:45Z][..\source\report.cpp:450][INFO]: sysinfo_get_installed_products(report): successful
+[2021-02-12T19:31:45Z][..\source\main.cpp:530][INFO]: report uuid: 5184B441-EDAB-4F33-ABB1-264C05618D9E
+[2021-02-12T19:31:45Z][..\source\main.cpp:531][INFO]: user uuid: 3A2D4250-81F0-418C-B9E4-F0359C05B411
+[2021-02-12T19:31:45Z][..\source\main.cpp:532][INFO]: report datetime: 2021-02-12T19:31:43Z
+[2021-02-12T19:31:45Z][..\source\main.cpp:534][INFO]: report system uuid: D86D4340-D8A2-A616-96EB-766905F6DAB9
+[2021-02-12T19:31:45Z][..\source\main.cpp:164][INFO]: Sending Report...
+[2021-02-12T19:31:49Z][..\source\main.cpp:213][INFO]: Report successfully sent!
+[2021-02-12T19:31:49Z][..\source\main.cpp:549][INFO]: Exit value: 0

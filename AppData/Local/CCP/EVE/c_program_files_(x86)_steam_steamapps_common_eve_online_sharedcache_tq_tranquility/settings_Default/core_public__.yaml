@@ -1,0 +1,39 @@
+audio:
+  eveampGain: [131811583236629390, 0.25]
+  evevoiceGain: [131811583236629390, 0.9]
+  limitVoiceCount: [131811583236629390, 0]
+  masterVolume: [131811583236629390, 0.7]
+  suppressTurret: [131811583236629390, 0]
+  uiGain: [131811583236629390, 0.5]
+  useOldJukeboxOverride: [131811583397833808, 0]
+  worldVolume: [131811583236629390, 0.6]
+device:
+  DeviceSettings:
+  - 131811583246722054
+  - {Adapter: 0, AutoDepthStencilFormat: 1, BackBufferCount: 1, BackBufferFormat: 24,
+    BackBufferHeight: 768, BackBufferWidth: 1366, EnableAutoDepthStencil: true, Flags: 0,
+    FullScreen_RefreshRateInHz: 60, MultiSampleQuality: 0, MultiSampleType: 0, PresentationInterval: 17,
+    SwapEffect: 0, Windowed: false}
+  FixedWindow: [131811583246722054, false]
+  FullScreenResolution:
+  - 131811583236178721
+  - [1366, 768]
+  UIScaleFullscreen: [131811583249735109, 1.0]
+  UIScaleWindowed: [131811583236178721, 1.0]
+  WindowedResolution: [131811583236178721, null]
+  antiAliasing: [131811583400732975, 0]
+  brightness: [131811583246722054, 1.0]
+  charClothSimulation: [131811583236178721, 1]
+  charTextureQuality: [131811583236178721, 1]
+  fastCharacterCreation: [131811583236178721, 0]
+  lodQuality: [131811583400732975, 3]
+  postProcessingQuality: [131811583400732975, 2]
+  resourceCacheEnabled: [131811583246722054, 0]
+  shaderQuality: [131811583400732975, 3]
+  shadowQuality: [131811583400732975, 2]
+  textureQuality: [131811583400732975, 0]
+generic:
+  showintro2: [131811583327728611, 0]
+ui:
+  CSS_AdAlreadyDisplayed_http://81157/: [131811580612250584, true]
+  CSS_AdAlreadyDisplayed_http://81159/: [131811583414893238, true]

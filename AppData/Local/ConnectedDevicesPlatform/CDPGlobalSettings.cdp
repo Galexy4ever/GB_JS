@@ -1,0 +1,35 @@
+﻿{
+   "AFSUrl" : "https://activity.windows.com",
+   "Authentication.Environment" : 0,
+   "BluetoothTransportEnabled" : true,
+   "CcsPollingEnabled" : false,
+   "CcsPollingInterval" : 0,
+   "CcsSeenRequestIds" : [],
+   "CcsSeenRequestIdsLastUpdatedTime" : "",
+   "CcsUrl" : "https://cdpcs.microsoft.com/api/v1",
+   "CloudTransportEnabled" : true,
+   "CustomAuthClsid" : "",
+   "DdsRegisterUrl" : "",
+   "DdsSyncUrl" : "",
+   "FormatVersion" : 5,
+   "LatestCdpUsedTime" : "0000-00-00T00:00:00.0",
+   "NotificationUri" : "https://wns2-db5p.notify.windows.com/?token=AwYAAACrk2Yx%2f%2b%2fiqVK0N8%2bNwxXGLfS1TlNLgnZDkDcPIoOlnVIJz5i2BjxgBVmUVojoUx4hw%2ff%2bh7g4uwGYKk3wNK1eWTGWpym2Oyt%2fqlH1GORXRCF9iEOzt%2bIpLjSrqwzMyOk%3d",
+   "NotificationUriLastSynced" : "2022-03-24T18:25:06.656Z",
+   "POBoxes" : [
+      {
+         "alternateId" : "cortana.xdevice",
+         "name" : "ShareFileBinaryHost",
+         "packageId" : "cortana.xdevice",
+         "type" : "binary"
+      },
+      {
+         "alternateId" : "cortana.xdevice",
+         "name" : "NotificationActionBinaryHost",
+         "packageId" : "cortana.xdevice",
+         "type" : "binary"
+      }
+   ],
+   "TraceLog.Level" : 1,
+   "UdpTransportEnabled" : true,
+   "VirtualDeviceId" : "F0F2B9C5-18A0-E032-4B85-9715948C45A9"
+}
